@@ -33,8 +33,9 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(42,42,42);
 .header-hr { height: 2px; width: 450px; margin: 15px auto 15px auto; background-color: rgba(42,42,42,0.6); border: none; }
 
 /* main */
-.main { width: 550px; min-width: 200px; margin: 0 auto 0 auto; padding: 0; text-align: left; background-color: rgba(42,42,42,0.05); padding: 50px; border-radius: 10px; margin-bottom: 50px; }
-.main h1:first-child { margin-top: 0px; }
+.main { width: 560px; min-width: 200px; margin: 0 auto 50px auto; padding: 35px 50px 40px 50px; text-align: left; background-color: rgba(42,42,42,0.05); border-radius: 10px; }
+.main h1:first-child { margin-top: 0; }
+.main p:last-child { margin-bottom: 0;}
 
 /* basic html, basic emphasis */
 h1 { font-family: amaticbold, Arial, Helvetica, sans-serif; font-size: 250%; margin: 20px 0 10px 0; }
