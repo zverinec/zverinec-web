@@ -19,7 +19,7 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(42,42,42);
 .header a:hover { text-decoration: none; }
 
 .header-logo { display: block; }
-.header-logo img { height: 200px; width: 400px; }
+.header-logo img { max-height: 200px; max-width: 400px; width: 100%; }
 .header-title { font-size: 360%; }
 
 .header-menu>a { font-size: 250%; margin: 0 5px 0 5px; }
@@ -30,10 +30,13 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(42,42,42);
 
 .nocss { display: none; }
 
-.header-hr { height: 2px; width: 450px; margin: 15px auto 15px auto; background-color: rgba(42,42,42,0.6); border: none; }
+.header-hr { height: 2px; max-width: 450px; width: 90%; margin: 15px auto 15px auto; background-color: rgba(42,42,42,0.6); border: none; }
 
 /* main */
-.main { width: 560px; min-width: 200px; margin: 0 auto 150px auto; padding: 35px 50px 40px 50px; text-align: left; background-color: rgba(42,42,42,0.05); border-radius: 10px; }
+.main { min-width: 200px; margin: 0 auto 150px auto; padding: 35px 50px 40px 50px; text-align: left; background-color: rgba(42,42,42,0.05); border-radius: 10px; }
+@media only screen and (min-width: 700px) {
+    .main { width: 560px; }
+}
 .main h1:first-child { margin-top: 0; }
 .main p:last-child { margin-bottom: 0;}
 
