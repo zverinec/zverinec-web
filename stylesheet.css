@@ -30,6 +30,7 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(42,42,42);
 
 .nocss { display: none; }
 
+.motto { display: block; font-size: 1.6em; }
 .header-hr { height: 2px; max-width: 450px; width: 90%; margin: 15px auto 15px auto; background-color: rgba(42,42,42,0.6); border: none; }
 
 /* main */
