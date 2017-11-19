@@ -28,6 +28,8 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(42,42,42);
 .header-menu>a:hover:before, .header-menu>a.active:before { opacity: 1; }
 .header-menu>a:hover:after, .header-menu>a.active:after { opacity: 1; }
 
+img.rad { height: 1em; width: 1em; }
+
 .nocss { display: none; }
 
 .motto { display: block; font-size: 1.6em; }
