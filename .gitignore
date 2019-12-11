@@ -2,3 +2,5 @@ untracked
 
 # Google console/analytics ID file
 google*.html
+
+deploy-token.php
