@@ -1,5 +1,13 @@
 /* main */
-.main { min-width: 200px; margin: 0 auto 150px auto; padding: 35px 50px 40px 50px; text-align: left; background-color: rgba(42,42,42,0.05); border-radius: 10px; }
+.main {
+	min-width: 200px;
+	margin: 0 auto 150px auto;
+	padding: 35px 50px 40px 50px;
+	text-align: left;
+	background-color: rgba(42,42,42,0.05);
+	border-radius: 10px;
+}
+
 @media only screen and (min-width: 700px) {
     .main { width: 560px; }
 }
@@ -56,8 +64,24 @@ td {
 .center { text-align: center; }
 
 /* page specific css follows */
-a.sign-up-button { padding: 10px 20px; background: #9fc6e7; display: block; font-family: amaticbold; font-weight: bold; font-size: 1.6em; border-radius: 10px; margin: auto; }
-a.sign-up-button:hover { text-decoration: none; color: white; box-shadow: 0px 0px 30px white; transition: all 200ms ease-in-out; }
+a.sign-up-button {
+	padding: 10px 20px;
+	background: #9fc6e7;
+	display: block;
+	font-family: amaticbold;
+	font-weight: bold;
+	font-size: 1.6em;
+	border-radius: 10px;
+	margin: auto;
+}
+
+a.sign-up-button:hover {
+	text-decoration: none;
+	color: white;
+	box-shadow: 0px 0px 30px white;
+	transition: all 200ms ease-in-out;
+}
+
 a.sign-up-button:active { background: hsla(208, 60%, 60%, 1); }
 
 img.rad { height: 1em; width: 1em; }
