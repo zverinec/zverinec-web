@@ -7,13 +7,19 @@ Association at FI MU_ web.
 
 ## Development
 
-This repository contains static `html` files, you could simple preview
-website by running web server directly in the root of this repository.
+This page is served as static page. It is built using
+[Jekyll](https://jekyllrb.com/).
+
+## Toolchain setup
 
 ```bash
-$ bundle config --local path vendor
 $ bundle install
 ```
+
+## Web build
+
+ * `$ make build` to build web to `_site` directory.
+ * `$ make server` to serve webpage on localhost.
 
 ### Deployment
 
