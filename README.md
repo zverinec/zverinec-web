@@ -10,6 +10,11 @@ Association at FI MU_ web.
 This repository contains static `html` files, you could simple preview
 website by running web server directly in the root of this repository.
 
+```bash
+$ bundle config --local path vendor
+$ bundle install
+```
+
 ### Deployment
 
 This repository is automatically deployed on push to GitHub to

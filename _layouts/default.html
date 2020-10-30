@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+    {% capture title %}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{% endcapture %}
+    {% include page-url-resolver.html page=page %}
+
+    {% if page.excerpt %}
+    {% assign description = page.excerpt | strip_html | strip_newlines | truncate: 160 %}
+    {% else %}
+    {% assign description = site.description %}
+    {% endif %}
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ title }}</title>
+
+    <meta name="description" content="{{ description }}">
+
+    <link rel="shortcut icon" href="{{ site.favicon | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="canonical" href="{{ url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl }}" />
+
+    <meta name="author" content="{{ site.author }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="robots" content="{{ site.robots }}">
+
+    <link href="{{ '/css/style.css' | prepend: site.baseurl }}" rel="stylesheet">
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(["setDoNotTrack", true]);
+      _paq.push(["disableCookies"]);
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://fadmin.fi.muni.cz/piwik/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '32']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="https://fadmin.fi.muni.cz/piwik/matomo.php?idsite=32&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
+</head>
+
+<body>
+<div class="root">
+    <div class="header">
+        <a href="/" title="Spolek přátel severské zvěře" class="header-logo">
+            <img src="img/logo.png" alt="Logo spolku" />
+        </a>
+        <a href="/" class="header-title">Spolek přátel severské zvěře</a>
+    <span class="motto">Aby univerzita byla víc než jen škola.</span>
+        <hr class="header-hr"/>
+        <div class="header-menu">
+            <a class="active" href="/">o spolku</a>
+            <a href="members">členové</a>
+            <a href="docs">dokumenty</a>
+            <a href="faq">faq</span></a>
+            <a href="contact">kontakt</a>
+        </div>
+    </div>
+
+    <div class="main">
+        {{ content }}
+    </div>
+</div>
+</body>
+</html>

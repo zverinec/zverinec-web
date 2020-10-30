@@ -1,0 +1,36 @@
+#
+# Basic settings.
+#
+url: https://zverinec.fi.muni.cz/
+title: Spolek přátel severské zvěře
+favicon: /assets/img/favicon.ico
+language: cs
+author: Spolek přátel severské zvěře
+keywords: zvěřinec,spolek
+robots: index,follow
+
+#
+# Prettify url.
+#
+permalink: pretty
+
+include: ["_pages", ".htaccess"]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+  style: :compressed # or :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+  - Makefile

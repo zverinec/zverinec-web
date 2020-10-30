@@ -1,0 +1,65 @@
+/* main */
+.main { min-width: 200px; margin: 0 auto 150px auto; padding: 35px 50px 40px 50px; text-align: left; background-color: rgba(42,42,42,0.05); border-radius: 10px; }
+@media only screen and (min-width: 700px) {
+    .main { width: 560px; }
+}
+.main h1:first-child { margin-top: 0; }
+.main h2:first-child { margin-top: 0; }
+.main h3:first-child { margin-top: 0; }
+.main h4:first-child { margin-top: 0; }
+.main p:last-child { margin-bottom: 0;}
+
+/* basic html, basic emphasis */
+h1, h2, h3, h4 {
+	font-family: amaticbold, Arial, Helvetica, sans-serif;
+	margin: 20px 0 10px 0;
+}
+
+h1 { font-size: 280%; }
+h2 { font-size: 250%; }
+h3 { font-size: 220%; }
+h4 { font-size: 180%; }
+
+p {
+	margin: 0 0 15px 0;
+	line-height: 150%;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(42,42,42);
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	margin: 0 auto 0 auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: transparent;
+}
+
+tr.even {
+	background-color: rgb(222,222,222);
+}
+
+td {
+	border: none;
+	padding: 3px 5px 3px 5px;
+}
+
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+.center { text-align: center; }
+
+/* page specific css follows */
+a.sign-up-button { padding: 10px 20px; background: #9fc6e7; display: block; font-family: amaticbold; font-weight: bold; font-size: 1.6em; border-radius: 10px; margin: auto; }
+a.sign-up-button:hover { text-decoration: none; color: white; box-shadow: 0px 0px 30px white; transition: all 200ms ease-in-out; }
+a.sign-up-button:active { background: hsla(208, 60%, 60%, 1); }
+
+img.rad { height: 1em; width: 1em; }
+.nocss { display: none; }
+.motto { display: block; font-size: 1.6em; }

@@ -1,6 +1,9 @@
-untracked
-
-# Google console/analytics ID file
+.ds_store
+_site/
+.bundle/
+.sass-cache/
+gemfile.lock
+vendor/
+.jekyll-cache
 google*.html
-
 deploy-token.php
