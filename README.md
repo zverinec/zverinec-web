@@ -13,7 +13,8 @@ This page is served as static page. It is built using
 ## Toolchain setup
 
 ```bash
-$ bundle install
+$ bundle config --local path .vendor
+$ bundle install [--deployment]
 ```
 
 ## Web build
