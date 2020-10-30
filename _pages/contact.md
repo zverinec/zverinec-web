@@ -2,6 +2,7 @@
 layout: default
 title: Kontakt
 permalink: /contact
+order: 40
 ---
 
 ## Jak nás kontaktovat

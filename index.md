@@ -1,6 +1,7 @@
 ---
-title: Spolek přátel severské zvěře
+title: O spolku
 layout: default
+order: 0
 ---
 
 ## Činnost spolku ve zkratce

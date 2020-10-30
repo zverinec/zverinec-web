@@ -58,14 +58,17 @@
     <span class="motto">Aby univerzita byla víc než jen škola.</span>
         <hr class="header-hr"/>
         <div class="header-menu">
-            <a class="active" href="/">o spolku</a>
-            <a href="members">členové</a>
-            <a href="docs">dokumenty</a>
-            <a href="faq">faq</span></a>
-            <a href="contact">kontakt</a>
+            {% assign pages = site.pages | sort: 'order' %}
+            {% for page_ in pages %}
+            {% if page_.title and page_.hide != true %}
+            <a {% if page_.url == page.url %} class="active"{% endif %}
+               href="{{ page_.url | prepend: site.baseurl }}">{{ page_.title }}</a>
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
 
+    <h1 class="nocss">{{ page.title }}</h1>
     <div class="main">
         {{ content }}
     </div>

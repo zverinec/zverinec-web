@@ -2,6 +2,7 @@
 layout: default
 title: Členové
 permalink: /members
+order: 10
 ---
 
 ## Výbor spolku

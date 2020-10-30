@@ -2,6 +2,7 @@
 layout: default
 title: Dokumenty
 permalink: /docs
+order: 20
 ---
 
 ## Výhody aktivního členství
