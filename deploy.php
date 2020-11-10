@@ -2,7 +2,7 @@
 require_once("deploy-token.php");
 
 define("REMOTE_REPOSITORY", "https://github.com/zverinec/zverinec-web.git");
-define("DIR", ".");
+define("DIR", "..");
 define("BRANCH", "refs/heads/master");
 define("LOGFILE", "/dev/null");
 define("GIT", "git");
