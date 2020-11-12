@@ -5,6 +5,13 @@ permalink: /faq
 order: 30
 ---
 
+## Jaké jsou výhody aktivního členství?
+
+ * Při výslechu či jiné nestandardní situaci má aktivní člen nárok na peřinu
+   nebo věc ekvivalentní. (přijato 2. listopadu 2015).
+ * Aktivní člen si po krátkém proškolení může půjčovat spolkovou lékárničku na
+   osobní akce. (prozatím neschváleno formálně).
+
 ## Proč tučňák?
 
 Protože Spojená univerzita severské zvěře přijímá i zahraniční studenty.
