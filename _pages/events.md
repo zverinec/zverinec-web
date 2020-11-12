@@ -15,7 +15,7 @@ a logické myšlení. Seminář je uzpůsoben jak pro úplné začátečníky, 
 jednoduchých příkladech procvičí danou problematiku, tak pro zkušenější
 řešitele, kteří se pokusí pokořit hlavní soutěžní úlohy.
 
-<a class="btn btn-large" href="">Chci organizovat</a>
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://ksi.fi.muni.cz">Chci se stát řešitelem</a>
 
 
@@ -27,7 +27,7 @@ univerzity, vyzkoušet si své schopnosti v mnoha různých oblastech, udělat 
 s kamarády zajímavý výlet po Brně a v neposlední řadě také poměřit svoje síly
 s dalšími týmy.
 
-<a class="btn btn-large" href="">Chci organizovat</a>
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://intersob.math.muni.cz/">Jsem středoškolák a chci soutěžit</a>
 
 
@@ -52,7 +52,7 @@ a v odborných workshopech připravených fakultními laboratořemi nahlédnou
 několika zákoutí informatiky. Čekají je také netradiční informatické hry, během
 kterých poznají fakultu tak trochu jinak.
 
-<a class="btn btn-large" href="">Chci organizovat</a>
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://poznej.fi.muni.cz">Jsem středoškolák a chci se zúčastnit</a>
 
 
@@ -64,7 +64,7 @@ charakteru. Řešení odevzdávají prostřednictví webové stránky, která je
 ověřuje. Za správně vyřešené úlohy získávají týmy body, které okamžitě
 ovlivňují jejich pořadí na výsledkové listině.
 
-<a class="btn btn-large" href="">Chci organizovat</a>
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://interlos.fi.muni.cz">Chci soutěžit</a>
 
 
