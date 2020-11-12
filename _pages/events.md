@@ -5,6 +5,8 @@ permalink: /events
 order: 10
 ---
 
+# Co organizujeme?
+
 ## Korespondenční seminář z informatiky
 
 KSI, neboli Korespondenční Seminář z Informatiky, je celoroční soutěž pro
@@ -14,6 +16,8 @@ zajímavými oblastmi informatiky a procvičit programátorské, matematické
 a logické myšlení. Seminář je uzpůsoben jak pro úplné začátečníky, kteří si na
 jednoduchých příkladech procvičí danou problematiku, tak pro zkušenější
 řešitele, kteří se pokusí pokořit hlavní soutěžní úlohy.
+
+<img src="/img/ksi.png" alt="KSI" />
 
 <a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://ksi.fi.muni.cz">Chci se stát řešitelem</a>
@@ -26,6 +30,8 @@ které mají možnost podívat se netradičním způsobem do zákulisí Masaryko
 univerzity, vyzkoušet si své schopnosti v mnoha různých oblastech, udělat si
 s kamarády zajímavý výlet po Brně a v neposlední řadě také poměřit svoje síly
 s dalšími týmy.
+
+<img src="/img/intersob.jpg" alt="InterSoB" />
 
 <a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://intersob.math.muni.cz/">Jsem středoškolák a chci soutěžit</a>
@@ -41,6 +47,8 @@ odpočinuli, do soustředění zařazujeme bohatý zážitkový program. Soustř
 uzpůsobené tak, aby si na své přišli informatici i biologové. Vězte, že u nás
 se nudit nebudete!
 
+<img src="/img/kscuk.jpg" alt="K-SCUK" />
+
 <a class="btn btn-large" href="">Chci organizovat</a>
 
 
@@ -51,6 +59,8 @@ informatiky. Vyzkouší si, jak probíhá studium informatiky na vysoké škole
 a v odborných workshopech připravených fakultními laboratořemi nahlédnou do
 několika zákoutí informatiky. Čekají je také netradiční informatické hry, během
 kterých poznají fakultu tak trochu jinak.
+
+<img src="/img/poznejfi.jpg" alt="Poznej FI" />
 
 <a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://poznej.fi.muni.cz">Jsem středoškolák a chci se zúčastnit</a>
@@ -64,6 +74,8 @@ charakteru. Řešení odevzdávají prostřednictví webové stránky, která je
 ověřuje. Za správně vyřešené úlohy získávají týmy body, které okamžitě
 ovlivňují jejich pořadí na výsledkové listině.
 
+<img src="/img/interlos.jpg" alt="InterLoS" />
+
 <a class="btn btn-large" href="/event-join">Chci organizovat</a>
 <a class="btn btn-large" href="https://interlos.fi.muni.cz">Chci soutěžit</a>
 
@@ -73,6 +85,7 @@ ovlivňují jejich pořadí na výsledkové listině.
 Jednodenní akce, která probíhá tradičně v červnu v atriu Fakulty informatiky.
 Grilování, kytara a volná zábava. Vítán je každý přítel fakulty.
 
+<img src="/img/gril.jpg" alt="Gril" />
 
 ## InterJelen
 

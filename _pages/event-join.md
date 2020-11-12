@@ -30,6 +30,7 @@ sbírat zpětnou vazbu.
 
 Tato role obnáší přípravu cca 4 měsíce před akcí.
 
+<img src="/img/a-team.jpg" alt="A-tým" />
 
 ## Člen B-týmu akce
 
@@ -37,6 +38,7 @@ Pokud si netroufáš na přípravu akce, můžeš se zapojit jako _béčko_. Neb
 podílet na vymýšlení programu, jen přijdeš na akci a budeš vypomáhat, s čím
 bude potřeba. Například na nějakém herním stanovišti.
 
+<img src="/img/b-team.jpg" alt="B-tým" />
 
 ## Tester
 
@@ -44,6 +46,7 @@ Ať už jde o hry na akcích nebo úlohy v [KSI](https://ksi.fi.muni.cz), než
 k tomu pustíme středoškoláky, je potřeba to otestovat. Můžeš si přijít zahrát
 hru, nebo si zkusit vyřešit informatické úlohy a dát nám zpětnou vazbu.
 
+<img src="/img/tester.jpg" alt="Tester" />
 
 ## Fotograf
 
