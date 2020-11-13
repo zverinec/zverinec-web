@@ -98,4 +98,4 @@ deskovek, koukání na filmy, nebo něco úplně jiného.
 Máš šílený nápad? V hlavě ti leží myšlenka na jinou akci, kterou bys na fakultě
 chtěl\*a vidět? Hledáš tým lidí, kteří ti ji pomohou zorganizovat?
 
-<a class="btn btn-large" href="/contact">Ozvi se nám!</a>
+<a class="btn btn-large" href="/#contact">Ozvi se nám!</a>

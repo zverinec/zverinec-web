@@ -27,6 +27,7 @@ lidi a získat nové zkušenosti&hellip;
 
 <a class="btn btn-large" href="/prihlaska">Přidej se k nám</a>
 
+<a name="contact"></a>
 ## Kontakty
 
  * [zverinec-<span class="nocss">loskarlos</span>vybor@fi.muni.cz]()
