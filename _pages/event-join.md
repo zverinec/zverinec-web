@@ -18,8 +18,8 @@ organizuje.
  * InterLoS: interlos<span class="nocss">loskarlos</span>@fi.muni.cz
  * Gril, InterJelen: zverinec-vybor<span class="nocss">loskarlos</span>@fi.muni.cz
 
-Zde je seznam rolí, které akce typicky nabízejí, takže si můžeš představu,
-co organizace obnáší.
+Zde je seznam rolí, které akce typicky nabízejí, takže si můžeš udělat
+představu, co organizace obnáší.
 
 
 ## Člen A-týmu akce
@@ -44,18 +44,18 @@ bude potřeba. Například na nějakém herním stanovišti.
 
 Ať už jde o hry na akcích nebo úlohy v [KSI](https://ksi.fi.muni.cz), než
 k tomu pustíme středoškoláky, je potřeba to otestovat. Můžeš si přijít zahrát
-hru, nebo si zkusit vyřešit informatické úlohy a dát nám zpětnou vazbu.
+hru, nebo si zkusit vyřešit informatické úlohy a dát nám zpětnou vazbu.
 
 <img src="/img/tester.jpg" alt="Tester" />
 
 ## Fotograf
 
-Umíš to s foťákem? Bezva! Na každé akci potřebujeme někoho, kdo to všechno
+Umíš to s foťákem? Bezva! Na každé akci potřebujeme někoho, kdo to všechno
 zdokumentuje.
 
 
 ## Grafik
 
-Čas od času se nám hodí někdo, komu není grafika cizí a rád si s ní hraje.
+Čas od času se nám hodí někdo, komu není grafika cizí a rád si s ní hraje.
 Například při vytváření [ikonek úloh do KSI](https://ksi.fi.muni.cz/ulohy).
 
