@@ -96,6 +96,6 @@ deskovek, koukání na filmy, nebo něco úplně jiného.
 ## Tvoje akce
 
 Máš šílený nápad? V hlavě ti leží myšlenka na jinou akci, kterou bys na fakultě
-chtěl\*a vidět? Hledáš tým lidí, kteří ti ji pomohou zorganizovat?
+chtěl vidět? Hledáš tým lidí, kteří ti ji pomohou zorganizovat?
 
 <a class="btn btn-large" href="/#contact">Ozvi se nám!</a>
