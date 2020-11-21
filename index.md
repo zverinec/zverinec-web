@@ -7,7 +7,7 @@ order: 0
 Cílem Spolku přátel severské zvěře je zastřešení aktivit organizovaných studenty <a href="https://www.fi.muni.cz/">fakulty informatiky</a> a <a href="http://www.sci.muni.cz/">přírodovědecké fakulty</a> pro studenty středních a vysokých škol. Vlajkovými akcemi jsou například <a href="https://intersob.math.muni.cz/">InterSoB</a>, <a href="https://interlos.fi.muni.cz/">InterLoS</a>, <a href="https://ksi.fi.muni.cz/">Korespondenční seminář z informatiky</a> a <a href="https://kscuk.fi.muni.cz">soustředění K-SCUK</a>.
 
 Při pořádání akcí klademe důraz na propagaci přírodních věd a racionálního
-přístupu k řešení problémů, stejně jako netradičních forem vzdělávání.
+přístupu k řešení problémů, stejně jako netradičních forem vzdělávání.
 Vedlejším cílem spolku je vylepšování prostředí Fakulty informatiky pro
 stávající i budoucí studenty.
 
@@ -15,14 +15,14 @@ stávající i budoucí studenty.
 
 ## Chceš nás poznat? Chceš se připojit?
 
-O nové členy máme zájem, protože více hlav má více nápadů&hellip; A rozhodně
+O nové členy máme zájem, protože více hlav má více nápadů... A rozhodně
 více sil a možností podnikat své(hlavé) projekty. Pokud máš nějaký nápad
 na projekt, hru, či třeba jen rád učíš druhé, rád si hraješ, chceš poznat nové
 lidi a získat nové zkušenosti&hellip;
 
  * Zeptej se nějakého [našeho člena](/members). Je docela
    pravděpodobné, že nějakého už znáš, či se s ním na fakultě potkáváš.
- * Nachla-li tě konkrétní [akce](/events), napiš na její kontaktní email.
+ * Nadchla-li tě konkrétní [akce](/events), napiš na její kontaktní email.
  * Napiš vedení spolku.
 
 <a class="btn btn-large" href="/prihlaska">Přidej se k nám</a>
