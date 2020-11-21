@@ -1,8 +1,8 @@
 AddDefaultCharset Off
 
 # Redirects for specific pages
-Redirect 301 /gril https://www.facebook.com/events/289367685351792/
-Redirect 301 /prihlaska https://docs.google.com/forms/d/1P4wIho7zX5hM1YK9PSPti6ROcXxlHDcp7jNuiK7ePRw/
+Redirect 302 /gril https://www.facebook.com/events/289367685351792/
+Redirect 302 /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
 
 # Rewriting: Add .html to URLs
 RewriteEngine On

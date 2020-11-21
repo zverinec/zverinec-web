@@ -30,7 +30,9 @@ lidi a získat nové zkušenosti&hellip;
 <a name="contact"></a>
 ## Kontakty
 
- * [zverinec-<span class="nocss">loskarlos</span>vybor@fi.muni.cz]()
- * [Facebook](https://www.facebook.com/zverinec)
- * [YouTube](https://www.youtube.com/channel/UCmodZoLOSBFiFgimfAN5hpA)
- * [Instagram](https://instagram.com/spolekzverinec)
+<div class="center">
+<a class="fa fa-fw fa-envelope fa-2x" href="mailto:zverinec-vybor@fi.muni.cz"></a>
+<a class="fab fa-fw fa-facebook-square fa-2x" href="https://www.facebook.com/zverinec"></a>
+<a class="fab fa-fw fa-youtube fa-2x" href="https://www.youtube.com/channel/UCmodZoLOSBFiFgimfAN5hpA"></a>
+<a class="fab fa-fw fa-instagram-square fa-2x" href="https://instagram.com/spolekzverinec"></a>
+</div>
