@@ -3,6 +3,7 @@ AddDefaultCharset Off
 # Redirects for specific pages
 Redirect 302 /gril https://www.facebook.com/events/289367685351792/
 Redirect 302 /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
+Redirect 302 /contact https://zverinec.fi.muni.cz/#kontakty
 
 # Rewriting: Add .html to URLs
 RewriteEngine On
