@@ -8,8 +8,9 @@ order: 20
 ## Výbor spolku
 
 Jan Horáček (předseda) <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /><br/>
-Dominika Krejčí <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
-Anička Řechtáčková<br/>
+Anička Řechtáčková <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu." /><br/>
+Veronika Burgerová<br/>
+Adam Hlaváček <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /><br/>
 
 
 ## Aktivní členové
@@ -20,7 +21,6 @@ Petr Bém<br/>
 Ondra Borýsek<br/>
 Honza Böhm<br/>
 Ondřej Buček<br/>
-Veronika Burgerová<br/>
 Radka Cieslarová<br/>
 Martina Cvinčeková<br/>
 Zdenko Čepan<br/>
@@ -28,11 +28,11 @@ David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Tom Effenberger <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
-Adam Hlaváček<br/>
 Anna Hradecká<br/>
 Vendula Koublová<br/>
 Dalibor Kramář<br/>
 Martin Krebs<br/>
+Dominika Krejčí <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
 Martin Kurečka<br/>
 Henrich Lauko <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 Ron Luc<br/>
