@@ -29,6 +29,7 @@ Bára Dohnalová<br/>
 Tom Effenberger <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
 Anna Hradecká<br/>
+Petr Kadlec<br/>
 Vendula Koublová<br/>
 Dalibor Kramář<br/>
 Martin Krebs<br/>
