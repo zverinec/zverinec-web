@@ -21,7 +21,6 @@ Petr Bém<br/>
 Ondra Borýsek<br/>
 Honza Böhm<br/>
 Ondřej Buček<br/>
-Radka Ošťáďalová<br/>
 Martina Cvinčeková<br/>
 Zdenko Čepan<br/>
 David Dobrovolný<br/>
@@ -40,6 +39,7 @@ Ron Luc<br/>
 Honza Macek<br/>
 Tomáš Macháček<br/>
 Vendula Němcová<br/>
+Radka Ošťáďalová<br/>
 Kristýna Pokorná<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
