@@ -21,7 +21,7 @@ Petr Bém<br/>
 Ondra Borýsek<br/>
 Honza Böhm<br/>
 Ondřej Buček<br/>
-Radka Cieslarová<br/>
+Radka Ošťáďalová<br/>
 Martina Cvinčeková<br/>
 Zdenko Čepan<br/>
 David Dobrovolný<br/>
