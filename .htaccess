@@ -1,5 +1,3 @@
-AddDefaultCharset Off
-
 # Redirects for specific pages
 Redirect temp /gril https://www.facebook.com/events/289367685351792/
 Redirect temp /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
