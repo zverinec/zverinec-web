@@ -3,4 +3,11 @@ Redirect temp /gril https://www.facebook.com/events/289367685351792/
 Redirect temp /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
 Redirect temp /contact https://zverinec.fi.muni.cz/#kontakty
 
+# Rewriting: Add .html to URLs
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{3,4}
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.(html|css|jpg|png|gif|pdf)$
+RewriteRule ^(.*)$ $1.html
+
 ErrorDocument 404 /404.html
