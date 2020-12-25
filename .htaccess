@@ -1,8 +1,8 @@
 AddDefaultCharset Off
 
 # Redirects for specific pages
-Redirect 302 /gril https://www.facebook.com/events/289367685351792/
-Redirect 302 /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
-Redirect 302 /contact https://zverinec.fi.muni.cz/#kontakty
+Redirect temp /gril https://www.facebook.com/events/289367685351792/
+Redirect temp /prihlaska https://forms.gle/89D5aMpFVgVYETvg9
+Redirect temp /contact https://zverinec.fi.muni.cz/#kontakty
 
 ErrorDocument 404 /404.html
