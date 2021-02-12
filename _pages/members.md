@@ -56,6 +56,7 @@ Samuel Šuľan<br/>
 Daniel Timko<br/>
 Matouš Trnka<br/>
 Martin Ukrop <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
+Jozef Vanický<br/>
 Matěj Žáček<br/>
 
 
