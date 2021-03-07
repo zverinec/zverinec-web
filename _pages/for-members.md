@@ -21,7 +21,7 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
 
 ## Důležité odkazy
 
- * [Google Drive](https://drive.google.com/drive/folders/0Bzh9PYQ4t9rKbDI5b2lEYUtLOXc) – obsahuje dokumenty, grafiku atp.
+ * [Google Drive](https://drive.google.com/drive/folders/0AMoSkYW75f4UUk9PVA) – obsahuje dokumenty, grafiku atp.
  * [Fotoarchiv](https://drive.google.com/drive/folders/0AOcydfoZVpRMUk9PVA) – originály fotek z akcí
  * [Videoarchiv](https://drive.google.com/drive/folders/0ALYn5YGLWqpOUk9PVA) – originály videí z akcí
 
