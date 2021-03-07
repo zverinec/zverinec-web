@@ -53,6 +53,7 @@ hru, nebo si zkusit vyřešit informatické úlohy a dát nám zpětnou vazbu.
 Umíš to s foťákem? Bezva! Na každé akci potřebujeme někoho, kdo to všechno
 zdokumentuje.
 
+<img src="/img/photographer.jpg" alt="A-tým" />
 
 ## Grafik
 
