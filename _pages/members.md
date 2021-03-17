@@ -17,7 +17,6 @@ Adam Hlaváček <img src="img/rad.png" class="rad" title="Řád přítele sever
 
 Hugo Adamove<br/>
 Přemysl Bednárek<br/>
-Petr Bém<br/>
 Ondra Borýsek<br/>
 Honza Böhm<br/>
 Ondřej Buček<br/>
