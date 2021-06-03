@@ -4,12 +4,23 @@ layout: default
 order: 0
 ---
 
-Cílem Spolku přátel severské zvěře je zastřešení aktivit organizovaných studenty <a href="https://www.fi.muni.cz/">fakulty informatiky</a> a <a href="http://www.sci.muni.cz/">přírodovědecké fakulty</a> pro studenty středních a vysokých škol. Vlajkovými akcemi jsou například <a href="https://intersob.math.muni.cz/">InterSoB</a>, <a href="https://interlos.fi.muni.cz/">InterLoS</a>, <a href="https://ksi.fi.muni.cz/">Korespondenční seminář z informatiky</a> a <a href="https://kscuk.fi.muni.cz">soustředění K-SCUK</a>.
+Jsme skupina lidí nejen z [Fakulty informatiky](https://fi.muni.cz/), kteří
+sdílí nadšení pro informatiku, přírodní vědy a jejich popularizaci. Společně
+organizujeme [aktivity](/events), kterými se snažíme středoškolákům předávat znalosti
+zajímavou a zábavnou formou a nadchnout je pro další studium. Stojíme ovšem
+i za řadou akcí určených pro studenty FI, další vysokoškoláky i širokou
+veřejnost.
 
-Při pořádání akcí klademe důraz na propagaci přírodních věd a racionálního
-přístupu k řešení problémů, stejně jako netradičních forem vzdělávání.
-Vedlejším cílem spolku je vylepšování prostředí Fakulty informatiky pro
-stávající i budoucí studenty.
+Naše činnost ale zdaleka není jen o práci. V neposlední řadě tvoříme komunitu
+nadšených lidí, kteří mají chuť spolu trávit čas smysluplně, navazovat nová
+přátelství se stejně naladěnými lidmi a navzájem se inspirovat.
+
+Mezi naše vlajkové akce patří [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/),
+[informaticko-biologické soustředění K-SCUK](https://kscuk.fi.muni.cz/),
+[online logická soutěž InterLoS](https://interlos.fi.muni.cz/),
+[městská hra InterSoB](https://intersob.math.muni.cz/) nebo třeba
+[víkend otevřených dveří s výhodami Poznej FI](https://poznej.fi.muni.cz/).
+Nebojíme se ale ani nápadů na nové aktivity a vždycky je uvítáme.
 
 <a class="btn btn-large" href="/events">Chci vědět více</a>
 
