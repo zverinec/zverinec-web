@@ -40,6 +40,7 @@ Tomáš Macháček<br/>
 Vendula Němcová<br/>
 Radka Ošťáďalová<br/>
 Kristýna Pokorná<br/>
+Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Vláďa Sedláček<br/>
