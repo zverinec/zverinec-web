@@ -54,6 +54,7 @@ Lukáš Semerád<br/>
 Monika Šlachtová<br/>
 Michal Staník<br/>
 Ondra Svoboda<br/>
+Tomáš Svoboda<br/>
 Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Vláďa Štill<br/>
