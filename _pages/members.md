@@ -62,7 +62,6 @@ Samuel Šuľan<br/>
 Daniel Timko<br/>
 Matouš Trnka<br/>
 Martin Ukrop <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
-Jozef Vanický<br/>
 Matěj Žáček<br/>
 
 
@@ -111,6 +110,7 @@ Petr Sojka<br/>
 Alexandra Stanová<br/>
 Eva Šmijáková<br/>
 Timotej Šujan<br/>
+Jozef Vanický<br/>
 Gabika Véghová<br />
 Monika Vlachová<br/>
 Viki Vozárová<br/>
