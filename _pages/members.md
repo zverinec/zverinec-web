@@ -29,7 +29,6 @@ Dominik Gmiterko <img src="img/rad.png" class="rad" title="Řád přítele seve
 Anna Hradecká<br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
-Vendula Koublová<br/>
 Dalibor Kramář<br/>
 Martin Krebs<br/>
 Dominika Krejčí <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
