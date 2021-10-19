@@ -99,7 +99,6 @@ Lukáš Němec<br/>
 Jiří Papoušek<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
-Jan Pokorný<br/>
 Jana Posltová<br/>
 Jakub Ratajík<br/>
 Oleksandr Sanin<br/>
