@@ -26,7 +26,6 @@ David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Tom Effenberger <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
-Anna Hradecká<br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
 Dalibor Kramář<br/>
@@ -60,7 +59,6 @@ Vláďa Štill<br/>
 Samuel Šuľan<br/>
 Daniel Timko<br/>
 Matouš Trnka<br/>
-Martin Ukrop <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Matěj Žáček<br/>
 
 
@@ -77,6 +75,7 @@ Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
 Pavla Havlíčková<br/>
 Martin Hesko<br/>
+Anna Hradecká<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
@@ -108,6 +107,7 @@ Petr Sojka<br/>
 Alexandra Stanová<br/>
 Eva Šmijáková<br/>
 Timotej Šujan<br/>
+Martin Ukrop <img src="img/rad.png" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Jozef Vanický<br/>
 Gabika Véghová<br />
 Monika Vlachová<br/>
