@@ -46,7 +46,6 @@ Kristýna Pokorná<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
-Vláďa Sedláček<br/>
 Dominik Sedlák<br/>
 Lukáš Semerád<br/>
 Monika Šlachtová<br/>
@@ -101,6 +100,7 @@ Jakub Peschel<br/>
 Jana Posltová<br/>
 Jakub Ratajík<br/>
 Oleksandr Sanin<br/>
+Vláďa Sedláček<br/>
 Ondřej Slámečka<br/>
 Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý přínos a především nadstandardní přispění k soutěži InterLoS 2018" /><br/>
 Petr Sojka<br/>
