@@ -56,7 +56,6 @@ Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Vláďa Štill<br/>
 Samuel Šuľan<br/>
-Daniel Timko<br/>
 Matouš Trnka<br/>
 Matěj Žáček<br/>
 
@@ -107,6 +106,7 @@ Petr Sojka<br/>
 Alexandra Stanová<br/>
 Eva Šmijáková<br/>
 Timotej Šujan<br/>
+Daniel Timko<br/>
 Martin Ukrop <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><img src="img/rad-rad.svg" class="rad" title="Řád vyššího řádu za dlouhodobé vedení spolku správným směrem" /><br/>
 Jozef Vanický<br/>
 Gabika Véghová<br />
