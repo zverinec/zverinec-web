@@ -19,19 +19,14 @@ Hugo Adamove<br/>
 Přemysl Bednárek<br/>
 Ondra Borýsek<br/>
 Honza Böhm<br/>
-Ondřej Buček<br/>
-Martina Cvinčeková<br/>
-Zdenko Čepan<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
-Dominik Gmiterko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
 Dalibor Kramář<br/>
 Martin Krebs<br/>
 Dominika Krejčí <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
-Martin Kurečka<br/>
 Henrich Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 Ron Luc<br/>
 Honza Macek<br/>
@@ -42,11 +37,8 @@ Vendula Němcová<br/>
 Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
 Eliška Pirnosová<br/>
-Kristýna Pokorná<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
-Bedřich Béďa Said<br/>
-Dominik Sedlák<br/>
 Lukáš Semerád<br/>
 Monika Šlachtová<br/>
 Michal Staník<br/>
@@ -55,8 +47,6 @@ Tomáš Svoboda<br/>
 Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Vláďa Štill<br/>
-Samuel Šuľan<br/>
-Matouš Trnka<br/>
 Matěj Žáček<br/>
 
 
@@ -64,11 +54,15 @@ Matěj Žáček<br/>
 
 Fanda Blahoudek<br/>
 Nikola Blaňárová<br/>
+Ondřej Buček<br/>
+Martina Cvinčeková<br/>
 Jarda Čechák<br/>
+Zdenko Čepan<br/>
 Jiří Daněk<br/>
 Lukáš Daubner<br/>
 Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Marie Maru Drábková<br/>
+Dominik Gmiterko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
 Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
 Pavla Havlíčková<br/>
@@ -83,6 +77,7 @@ Jan Veveřák Koniarik<br/>
 Jan Konstant<br/>
 Kristýna Kroupová<br />
 Karel Kubíček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
+Martin Kurečka<br/>
 František Lachman<br/>
 Peťa Macková<br/>
 Dan Makalouš<br/>
@@ -96,17 +91,22 @@ Lukáš Němec<br/>
 Jiří Papoušek<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
+Kristýna Pokorná<br/>
 Jana Posltová<br/>
 Jakub Ratajík<br/>
+Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
 Vláďa Sedláček<br/>
+Dominik Sedlák<br/>
 Ondřej Slámečka<br/>
 Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý přínos a především nadstandardní přispění k soutěži InterLoS 2018" /><br/>
 Petr Sojka<br/>
 Alexandra Stanová<br/>
 Eva Šmijáková<br/>
 Timotej Šujan<br/>
+Samuel Šuľan<br/>
 Daniel Timko<br/>
+Matouš Trnka<br/>
 Martin Ukrop <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><img src="img/rad-rad.svg" class="rad" title="Řád vyššího řádu za dlouhodobé vedení spolku správným směrem" /><br/>
 Jozef Vanický<br/>
 Gabika Véghová<br />
