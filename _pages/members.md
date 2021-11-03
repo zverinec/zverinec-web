@@ -22,6 +22,7 @@ Honza Böhm<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
+Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
 Dalibor Kramář<br/>
