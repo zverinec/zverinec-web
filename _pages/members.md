@@ -7,9 +7,9 @@ order: 20
 
 ## Výbor spolku
 
-Jan Horáček (předseda) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /><br/>
+Veronika Burgerová (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
+Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /><br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu." /><br/>
-Veronika Burgerová<br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /><br/>
 
 
@@ -17,7 +17,7 @@ Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele sever
 
 Hugo Adamove<br/>
 Přemysl Bednárek<br/>
-Ondra Borýsek<br/>
+Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Honza Böhm<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
@@ -47,7 +47,7 @@ Ondra Svoboda<br/>
 Tomáš Svoboda<br/>
 Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
-Vláďa Štill<br/>
+Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Matěj Žáček<br/>
 
 
