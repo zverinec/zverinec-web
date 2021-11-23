@@ -49,7 +49,7 @@ se nudit nebudete!
 
 <img src="/img/kscuk.jpg" alt="K-SCUK" />
 
-<a class="btn btn-large" href="">Chci organizovat</a>
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
 
 
 ## Poznej FI
