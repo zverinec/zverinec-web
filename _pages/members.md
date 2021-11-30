@@ -69,6 +69,7 @@ Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád pří
 Pavla Havlíčková<br/>
 Martin Hesko<br/>
 Anna Hradecká<br/>
+Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
