@@ -37,6 +37,7 @@ Jindřich Matuška<br/>
 Vendula Němcová<br/>
 Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
+Adam Parák<br/>
 Eliška Pirnosová<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
@@ -84,6 +85,7 @@ František Lachman<br/>
 Peťa Macková<br/>
 Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
+Bianka Matisová<br/>
 Jirka Mauritz<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Adéla Stopka<br/>
