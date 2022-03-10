@@ -34,7 +34,6 @@ Honza Macek<br/>
 Tomáš Macháček<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
-Vendula Němcová<br/>
 Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
 Adam Parák<br/>
@@ -45,7 +44,6 @@ Lukáš Semerád<br/>
 Monika Šlachtová<br/>
 Michal Staník<br/>
 Ondra Svoboda<br/>
-Tomáš Svoboda<br/>
 Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
