@@ -80,6 +80,19 @@ ovlivňují jejich pořadí na výsledkové listině.
 <a class="btn btn-large" href="https://interlos.fi.muni.cz">Chci soutěžit</a>
 
 
+## Naskoč na FI
+
+Naskoč na FI je online seminář určený pro studenty nově nastupující
+na Fakultu informatiky Masarykovy univerzity.
+Cílem semináře je představit budoucím prvákům témata z informatiky
+a vysokoškolského prostředí, která jim ulehčí začátek studia.
+
+<img src="/img/naskoc.jpg" alt="Naskoč na FI" />
+
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
+<a class="btn btn-large" href="https://naskoc.fi.muni.cz/">Chci se stát řešitelem</a>
+
+
 ## Schrödingerův gril
 
 Jednodenní akce, která probíhá tradičně v červnu v atriu Fakulty informatiky.
