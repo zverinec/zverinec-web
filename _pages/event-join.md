@@ -16,6 +16,7 @@ organizuje.
  * K-SCUK: kscuk<span class="nocss">loskarlos</span>@fi.muni.cz
  * Poznej FI: poznejfi<span class="nocss">loskarlos</span>@fi.muni.cz
  * InterLoS: interlos<span class="nocss">loskarlos</span>@fi.muni.cz
+ * Naskoč na FI: naskoc<span class="nocss">loskarlos</span>@fi.muni.cz
  * Gril, InterJelen: zverinec-vybor<span class="nocss">loskarlos</span>@fi.muni.cz
 
 Zde je seznam rolí, které akce typicky nabízejí, takže si můžeš udělat

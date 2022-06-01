@@ -90,7 +90,7 @@ a vysokoškolského prostředí, která jim ulehčí začátek studia.
 <img src="/img/naskoc.jpg" alt="Naskoč na FI" />
 
 <a class="btn btn-large" href="/event-join">Chci organizovat</a>
-<a class="btn btn-large" href="https://naskoc.fi.muni.cz/">Chci se stát řešitelem</a>
+<a class="btn btn-large" href="https://naskoc.fi.muni.cz/">Chci naskočit</a>
 
 
 ## Schrödingerův gril
