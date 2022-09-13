@@ -19,12 +19,19 @@ Hugo Adamove<br/>
 Přemysl Bednárek<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Honza Böhm<br/>
+Oliver Bukor<br/>
+Emanuel Císar<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
+Majda Dohnalová<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
+Marek Hába<br/>
 Tomáš Janoušek<br/>
 Ema Jašeková<br/>
+Ľubo Jurčišin<br/>
 Petr Kadlec<br/>
+Iva Kasprzaková<br/>
+Vojta Klapetek<br/>
 Dalibor Kramář<br/>
 Martin Krebs<br/>
 Dominika Krejčí <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
@@ -34,19 +41,23 @@ Honza Macek<br/>
 Tomáš Macháček<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
+Mário Murín<br/>
 Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
 Adam Parák<br/>
 Eliška Pirnosová<br/>
+Jarda Rohel<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Lukáš Semerád<br/>
 Monika Šlachtová<br/>
 Michal Staník<br/>
+Soňa Sviatková<br/>
 Ondra Svoboda<br/>
 Jakub Šťastný<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
+Yuliia Teslia<br/>
 Matěj Žáček<br/>
 
 
