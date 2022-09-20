@@ -18,9 +18,8 @@ Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele sever
 Hugo Adamove<br/>
 Přemysl Bednárek<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
-Honza Böhm<br/>
 Oliver Bukor<br/>
-Emanuel Císar<br/>
+Emanuel Cisár<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
@@ -33,10 +32,6 @@ Petr Kadlec<br/>
 Iva Kasprzaková<br/>
 Vojta Klapetek<br/>
 Dalibor Kramář<br/>
-Martin Krebs<br/>
-Dominika Krejčí <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
-Henrich Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
-Ron Luc<br/>
 Honza Macek<br/>
 Tomáš Macháček<br/>
 Kateřina Matulová<br/>
@@ -44,18 +39,16 @@ Jindřich Matuška<br/>
 Mário Murín<br/>
 Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
-Adam Parák<br/>
 Eliška Pirnosová<br/>
 Jarda Rohel<br/>
 Daniel Rozehnal<br/>
-Eduard Ruisl<br/>
 Lukáš Semerád<br/>
-Monika Šlachtová<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
-Jakub Šťastný<br/>
+Monika Šlachtová<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
+Jakub Šťastný<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Yuliia Teslia<br/>
 Matěj Žáček<br/>
@@ -65,6 +58,7 @@ Matěj Žáček<br/>
 
 Fanda Blahoudek<br/>
 Nikola Blaňárová<br/>
+Honza Darwin Böhm<br/>
 Ondřej Buček<br/>
 Martina Cvinčeková<br/>
 Jarda Čechák<br/>
@@ -91,22 +85,25 @@ Kristýna Kroupová<br />
 Karel Kubíček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Martin Kurečka<br/>
 František Lachman<br/>
+Dominika Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
+Henrich Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
+Ron Luc<br/>
 Peťa Macková<br/>
 Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Bianka Matisová<br/>
 Jirka Mauritz<br/>
-Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
-Adéla Stopka<br/>
 Jan Mrázek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 František Nečas<br/>
 Lukáš Němec<br/>
+Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Jiří Papoušek<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
 Kristýna Pokorná<br/>
 Jana Posltová<br/>
 Jakub Ratajík<br/>
+Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
 Vláďa Sedláček<br/>
@@ -115,6 +112,7 @@ Ondřej Slámečka<br/>
 Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý přínos a především nadstandardní přispění k soutěži InterLoS 2018" /><br/>
 Petr Sojka<br/>
 Alexandra Stanová<br/>
+Adéla Stopka<br/>
 Eva Šmijáková<br/>
 Timotej Šujan<br/>
 Samuel Šuľan<br/>
