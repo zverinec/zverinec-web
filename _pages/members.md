@@ -16,7 +16,6 @@ Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele sever
 ## Aktivní členové
 
 Hugo Adamove<br/>
-Přemysl Bednárek<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
@@ -37,7 +36,6 @@ Tomáš Macháček<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Mário Murín<br/>
-Radka Ošťáďalová<br/>
 Daniel Padrta<br/>
 Eliška Pirnosová<br/>
 Jarda Rohel<br/>
@@ -56,6 +54,7 @@ Matěj Žáček<br/>
 
 ## Sympatizující členové
 
+Přemysl Bednárek<br/>
 Fanda Blahoudek<br/>
 Nikola Blaňárová<br/>
 Honza Darwin Böhm<br/>
@@ -97,6 +96,7 @@ Jan Mrázek <img src="img/rad.svg" class="rad" title="Řád přítele severské
 František Nečas<br/>
 Lukáš Němec<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
+Radka Ošťádalová<br/>
 Jiří Papoušek<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
