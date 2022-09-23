@@ -38,6 +38,7 @@ Jindřich Matuška<br/>
 Mário Murín<br/>
 Daniel Padrta<br/>
 Eliška Pirnosová<br/>
+Karel Procházka<br/>
 Jarda Rohel<br/>
 Daniel Rozehnal<br/>
 Lukáš Semerád<br/>
