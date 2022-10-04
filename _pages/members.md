@@ -24,6 +24,7 @@ Bára Dohnalová<br/>
 Majda Dohnalová<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Marek Hába<br/>
+Jindra Halabala<br/>
 Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
