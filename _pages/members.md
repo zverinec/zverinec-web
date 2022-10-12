@@ -41,7 +41,6 @@ Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Jarda Rohel<br/>
 Daniel Rozehnal<br/>
-Lukáš Semerád<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
@@ -110,6 +109,7 @@ Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
 Vláďa Sedláček<br/>
 Dominik Sedlák<br/>
+Lukáš Semerád<br/>
 Ondřej Slámečka<br/>
 Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý přínos a především nadstandardní přispění k soutěži InterLoS 2018" /><br/>
 Petr Sojka<br/>
