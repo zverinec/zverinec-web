@@ -28,7 +28,6 @@ Jindra Halabala<br/>
 Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
-Petr Kadlec<br/>
 Iva Kasprzaková<br/>
 Vojta Klapetek<br/>
 Dalibor Kramář<br/>
@@ -78,6 +77,7 @@ Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
+Petr Kadlec<br/>
 Petra Kalábová<br/>
 Martin Klimeš<br/>
 Jan Veveřák Koniarik<br/>
