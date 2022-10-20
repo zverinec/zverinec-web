@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Winterlis
-permalink: /winterlis
+title: Winterlis 2023
+permalink: /winterlis23
 hide: true
 ---
 
