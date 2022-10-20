@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.80505mm"
+   height="167.66711mm"
+   viewBox="0 0 154.80505 167.66711"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="winterlis_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.57370932"
+     inkscape:cx="285.85905"
+     inkscape:cy="243.1545"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1331" />
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="style9"><![CDATA[
+    .fil0 {fill:#336666}
+    .fil1 {fill:#A1C9C9}
+    .fil2 {fill:#CAE3E3}
+    .fil3 {fill:white}
+   ]]></style>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1212">
+      <rect
+         style="fill:#336666;stroke:#336666;stroke-width:0.264583"
+         id="rect1214"
+         width="157.64073"
+         height="168.57396"
+         x="28.610168"
+         y="58.45282" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1216">
+      <rect
+         style="fill:#336666;stroke:#336666;stroke-width:0.999999"
+         id="rect1218"
+         width="595.8075"
+         height="637.12994"
+         x="-0.71760666"
+         y="41.914516" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.390056,-58.706683)">
+    <g
+       id="g1331">
+      <g
+         style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         id="g39"
+         transform="matrix(0.26458333,0,0,0.26458333,28.800035,47.362937)"
+         clip-path="url(#clipPath1216)">
+        <g
+           id="Layer_x0020_1"
+           inkscape:label="Layer 1"
+           inkscape:groupmode="layer">
+          <metadata
+             id="CorelCorpID_0Corel-Layer" />
+          <g
+             id="_1219557984">
+            <polygon
+               class="fil0"
+               points="441.047,549.577 294.775,549.576 148.502,549.577 75.366,422.901 2.23,296.225 75.366,169.55 148.502,42.874 294.775,42.874 441.047,42.874 514.184,169.55 587.32,296.225 514.184,422.901 "
+               id="polygon14" />
+            <g
+               id="g22">
+              <polygon
+                 class="fil1"
+                 points="168.337,336.618 191.727,101.112 2.23,296.225 148.502,549.577 268.026,549.577 "
+                 id="polygon16" />
+              <polygon
+                 class="fil2"
+                 points="516.28,324.012 441.047,549.577 148.502,549.577 371.454,249.744 "
+                 id="polygon18" />
+              <polygon
+                 class="fil3"
+                 points="349.153,249.416 367.109,376.931 483.004,423.78 516.28,324.012 360.405,112.403 353.221,153.711 322.062,118.946 326.721,171.712 242.422,232.587 269.017,248.235 "
+                 id="polygon20" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:31.3972px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="106.87582"
+         y="225.90283"
+         id="text1583"
+         clip-path="url(#clipPath1212)"><tspan
+           sodipodi:role="line"
+           id="tspan1581"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.3972px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;fill:#336666;fill-opacity:1;stroke-width:0.264583"
+           x="106.87582"
+           y="225.90283">WInterLIS</tspan></text>
+    </g>
+  </g>
+</svg>
