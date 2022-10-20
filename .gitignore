@@ -7,3 +7,5 @@ vendor/
 .jekyll-cache
 google*.html
 deploy-token.php
+.vscode/*
+.vendor/*
