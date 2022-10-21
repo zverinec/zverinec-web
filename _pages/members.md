@@ -8,9 +8,9 @@ order: 20
 ## Výbor spolku
 
 Veronika Burgerová (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
-Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /><br/>
-Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu." /><br/>
-Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /><br/>
+Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
+Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
+Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 
 
 ## Aktivní členové
@@ -46,7 +46,7 @@ Soňa Sviatková<br/>
 Ondra Svoboda<br/>
 Monika Šlachtová<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
-Jakub Šťastný<br/>
+Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Yuliia Teslia<br/>
 Matěj Žáček<br/>
@@ -97,7 +97,7 @@ Jan Mrázek <img src="img/rad.svg" class="rad" title="Řád přítele severské
 František Nečas<br/>
 Lukáš Němec<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
-Radka Ošťádalová<br/>
+Radka Ošťádalová<img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za věrnou a důslednou organizaci InterLoSa" /><br/>
 Jiří Papoušek<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
