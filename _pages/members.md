@@ -8,27 +8,28 @@ order: 20
 ## Výbor spolku
 
 Veronika Burgerová (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
-Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
+Daniel Padrta<br/>
+Iva Kasprzaková<br/>
 
 
 ## Aktivní členové
 
 Hugo Adamove<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
+Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
-Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Marek Hába<br/>
 Jindra Halabala<br/>
+Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
-Iva Kasprzaková<br/>
 Vojta Klapetek<br/>
 Dalibor Kramář<br/>
 Honza Macek<br/>
@@ -36,7 +37,6 @@ Tomáš Macháček<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Mário Murín<br/>
-Daniel Padrta<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Jarda Rohel<br/>
@@ -66,6 +66,7 @@ Jiří Daněk<br/>
 Lukáš Daubner<br/>
 Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Marie Maru Drábková<br/>
+Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
 Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
@@ -93,6 +94,7 @@ Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Bianka Matisová<br/>
 Jirka Mauritz<br/>
+Štefan Mlynár<br/>
 Jan Mrázek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 František Nečas<br/>
 Lukáš Němec<br/>
