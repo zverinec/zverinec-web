@@ -27,6 +27,7 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
 
 ## Zápisy ze schůzí
 
+ * <a href="https://docs.google.com/document/d/14w7kv_DQa8fTxB1OJSJQzv6rjynUVwfqxgazJ2GfELM/edit" target="_blank">20. 10. 2022</a>
  * <a href="https://docs.google.com/document/d/1xOkTdIfogZiDRkqHWBQZZz4uhEm0KTGpXTyR5dlMRKY/edit" target="_blank">3. 11. 2021</a>
  * <a href="https://docs.google.com/document/d/1ST7sWogs5jPQ2Aa2mduc4p6sJn6x4h669Se7bbkHOls/edit" target="_blank">29. 11. 2020</a>
  * <a href="files/2019-11-25_zapis.pdf" target="_blank">25. 11. 2019</a>
@@ -41,5 +42,3 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
 ## Jiné dokumenty
 
  * aktuálně platné <a href="files/stanovy.pdf" target="_blank">stanovy spolku</a>
- * otevřená sbírka <a href="https://drive.google.com/open?id=0B8kbLE4kip8pOXJPOFBENFg4bkU&authuser=0" target="_blank">fakultního humoru</a> (přispějte, jestli máte neco dalšího)
- * otevřená sbírka <a href="https://drive.google.com/open?id=0B8kbLE4kip8pMDJPWHlOa0ZBMkE&authuser=0" target="_blank">odborného informatického humoru</a> použitelného (nejen) ve výuce
