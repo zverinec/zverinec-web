@@ -127,4 +127,3 @@ Jozef Vanický<br/>
 Gabika Véghová<br />
 Monika Vlachová<br/>
 Viki Vozárová<br/>
-Barbora Výborová<br/>
