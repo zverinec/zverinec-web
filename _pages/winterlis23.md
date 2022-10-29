@@ -56,7 +56,8 @@ Organizátoři akci připravují bez nároku na odměnu.
 
 ## Přihláška
 <a class="btn btn-large" href="https://forms.gle/WSGXuhGP8N3AStVL9">Přihlásit se</a>
-Přihlašování je otevřeno <strong>do 24. listopadu</strong>.
+Přihlašování je otevřeno <strong>do 24. listopadu</strong>. <br />
+Kapacita akce je ~15 účastníků a 5 organizátorů.
 
 ### Storno podmínky
 
