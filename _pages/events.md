@@ -100,6 +100,18 @@ Grilování, kytara a volná zábava. Vítán je každý přítel fakulty.
 
 <img src="/img/gril.jpg" alt="Gril" />
 
+## wInterLIS
+
+WInterLIS (neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
+Spolek přátel severské zvěře a přátele Spolku přátel severské zvěře. Můžeš se
+těšit na spoustu tradičních i netradičních zimních aktivit, zajímavé workshopy,
+na organizované hry i neorganizovanou zábavu. A hlavně na ostatní přátele
+(přátel) severské zvěře, které jsi možná ve školním prostředí neměl tolik
+příležitostí poznat.
+
+<a class="btn btn-large" href="/winterlis23">Více informací</a>
+
+
 ## InterJelen
 
 Nepravidelná akce, jejíž cílem je prostě se pobavit a odpočinout si. Hraní
