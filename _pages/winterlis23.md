@@ -5,7 +5,9 @@ permalink: /winterlis23
 hide: true
 ---
 
+<a href="https://cs.wikipedia.org/wiki/Liška_polární ">
 <img style="width: 60%; margin-left: 20%" src="/img/winterlis_logo_curves.svg">
+</a>
 
 Chceš lépe poznat ostatní členy Spolku v netradičním prostředí?
 
@@ -18,7 +20,8 @@ Chceš se naučit dovednosti, které se ti budou hodit při organizování aktiv
 Schází tvému iglú vířivka a chtěl by sis ji vyrobit?
 
 ## O co jde?
-WInter[LIS](https://cs.wikipedia.org/wiki/Li%C5%A1ka_pol%C3%A1rn%C3%AD) (neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
+WInter[LIS](https://cs.wikipedia.org/wiki/Liška_polární)
+(neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
 Spolek přátel severské zvěře a přátele Spolku přátel severské zvěře. Můžeš se
 těšit na spoustu tradičních i netradičních zimních aktivit, zajímavé workshopy,
 na organizované hry i neorganizovanou zábavu. A hlavně na ostatní přátele
