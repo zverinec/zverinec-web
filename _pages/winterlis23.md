@@ -5,7 +5,7 @@ permalink: /winterlis23
 hide: true
 ---
 
-<img style="width: 60%; margin-left: 20%" src="/img/winterlis_logo.svg">
+<img style="width: 60%; margin-left: 20%" src="/img/winterlis_logo_curves.svg">
 
 Chceš lépe poznat ostatní členy Spolku v netradičním prostředí?
 
@@ -32,12 +32,12 @@ Akce proběhne **od 9. do 12. února 2023.** (Čtvrtek až neděle.)
 [Chalupa Průzračný potok](https://mapy.cz/s/jeguzalude), na rozhraní Jeseníků a Rychlebských hor.
 
 ## Za kolik?
-**1200–2000 Kč**
+**1200–2000 Kč**
 
 Rádi bychom, aby akce byla cenově dostupná pro každého, kdo má o účast na
 víkendovce zájem. Ceny všeho jsou ale vysoké, proto se účastnickým poplatkům
 nevyhneme. Podle svých finančních možností od tebe tedy pro účast budeme
-potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. 1200 Kč je pro nás
+potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. 1200 Kč je pro nás
 jakési minimum, abychom uhradili základní náklady na akci. Z více peněz si
 budeme moct dovolit zajistit zajímavější program, více mňamy jídlo a další
 vylepšení akce, abychom vám mohli nabídnout ještě víc cool zážitky. (Vše se ale
@@ -79,7 +79,7 @@ možnost, že se chceš stát sponzorem. Výše tvého dárku je zcela na tobě.
 
 Můžeš nám napsat na email [winterlis@fi.muni.cz](mailto:winterlis@fi.muni.cz).
 
-#### Moc rád bych jel, ale nemohu si dovolit dát za akci 1200 Kč
+#### Moc rád bych jel, ale nemohu si dovolit dát za akci 1200 Kč
 
 Nechtěli bychom, aby se cena akce stala jediným důvodem, proč by ses nemohl
 zúčastnit. Neváhej se nám tedy ozvat a zkusíme to nějak vymyslet.
