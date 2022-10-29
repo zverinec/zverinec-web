@@ -43,7 +43,6 @@ Organizátoři akci připravují bez nároku na odměnu, naopak i oni hradí ten
 - all inclusive stravování
 - zajištění materiálu na program, jeho dovoz a další nezbytné výdaje
 <br/>
-<br/>
 <a class="btn btn-large" href="https://forms.gle/WSGXuhGP8N3AStVL9">Přihlásit se</a>
 
 ## Storno podmínky
