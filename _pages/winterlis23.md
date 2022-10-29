@@ -18,7 +18,7 @@ Chceš se naučit dovednosti, které se ti budou hodit při organizování aktiv
 Schází tvému iglú vířivka a chtěl by sis ji vyrobit?
 
 ## O co jde?
-WInterLIS (neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
+WInter[LIS](https://cs.wikipedia.org/wiki/Li%C5%A1ka_pol%C3%A1rn%C3%AD) (neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
 Spolek přátel severské zvěře a přátele Spolku přátel severské zvěře. Můžeš se
 těšit na spoustu tradičních i netradičních zimních aktivit, zajímavé workshopy,
 na organizované hry i neorganizovanou zábavu. A hlavně na ostatní přátele
