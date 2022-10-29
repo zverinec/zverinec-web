@@ -8,9 +8,13 @@ hide: true
 <img style="width: 60%; margin-left: 20%" src="/img/winterlis_logo.svg">
 
 Chceš lépe poznat ostatní členy Spolku v netradičním prostředí?
+
 Chceš zjistit víc o tom, jaké akce Spolek vlastně pořádá?
+
 Chceš zažít spoustu zábavy a zimních radovánek?
+
 Chceš se naučit dovednosti, které se ti budou hodit při organizování aktivit i v životě?
+
 Schází tvému iglú vířivka a chtěl by sis ji vyrobit?
 
 ## O co jde?
