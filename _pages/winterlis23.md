@@ -59,10 +59,10 @@ Organizátoři akci připravují bez nároku na odměnu.
 Přihlašování je otevřeno <strong>do 24. listopadu</strong>. <br />
 Kapacita akce je ~15 účastníků a 5 organizátorů.
 
-Na koho se můžete těšit?
+**Na koho se můžete těšit?**
 
-Organizátoři: Honza Horáček, Bára Dohnalová, Verča Burgerová, Kuba Šťastný, Jarda Rohel<br />
-Účastníci: Dominik Farhan, Anička Řechtáčková, Ondra Borýsek, Eliška Pirnosová, Adam Hlaváček
+- Organizátoři: Honza Horáček, Bára Dohnalová, Verča Burgerová, Kuba Šťastný, Jarda Rohel
+- Účastníci: Dominik Farhan, Anička Řechtáčková, Ondra Borýsek, Eliška Pirnosová, Adam Hlaváček
 
 ### Storno podmínky
 
