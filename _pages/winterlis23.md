@@ -62,7 +62,7 @@ Kapacita akce je ~15 účastníků a 5 organizátorů.
 **Na koho se můžete těšit?**
 
 - Organizátoři: Honza Horáček, Bára Dohnalová, Verča Burgerová, Kuba Šťastný, Jarda Rohel
-- Účastníci: Dominik Farhan, Magdalena Dohnalová, Anička Řechtáčková, Ondra Borýsek, Marek Hába, Eliška Pirnosová, Adam Hlaváček, Jan Macek, Kateřina Matulová, Monika Šlachtová, Michal Staník
+- Účastníci: Dominik Farhan, Magdalena Dohnalová, Anička Řechtáčková, Ondra Borýsek, Marek Hába, Eliška Pirnosová, Adam Hlaváček, Jan Macek, Kateřina Matulová, Monika Šlachtová, Michal Staník, Oliver Bukor, Vojta Klapetek, David Dobrovolný
 
 ### Storno podmínky
 
