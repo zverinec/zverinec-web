@@ -25,6 +25,7 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
  * [Fotoarchiv](https://drive.google.com/drive/folders/0AOcydfoZVpRMUk9PVA) – originály fotek z akcí
  * [Videoarchiv](https://drive.google.com/drive/folders/0ALYn5YGLWqpOUk9PVA) – originály videí z akcí
  * [Spolkový Discord](https://discord.gg/3HmpyKqcbx)
+ * aktuálně platné <a href="files/stanovy.pdf" target="_blank">stanovy spolku</a>
 
 ## Zápisy ze schůzí
 
@@ -39,7 +40,3 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
  * <a href="files/2015-04-18_zapis.pdf" target="_blank">18. 4. 2015 (výletní schůze)</a>
  * <a href="files/2015-04-01_zapis.pdf" target="_blank">1. 4. 2015</a>
  * <a href="files/2014-12-09_zapis.pdf" target="_blank">9. 12. 2014 (zakládací schůze)</a>
-
-## Jiné dokumenty
-
- * aktuálně platné <a href="files/stanovy.pdf" target="_blank">stanovy spolku</a>
