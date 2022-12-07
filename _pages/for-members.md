@@ -24,6 +24,7 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
  * [Google Drive](https://drive.google.com/drive/folders/0AMoSkYW75f4UUk9PVA) – obsahuje dokumenty, grafiku atp.
  * [Fotoarchiv](https://drive.google.com/drive/folders/0AOcydfoZVpRMUk9PVA) – originály fotek z akcí
  * [Videoarchiv](https://drive.google.com/drive/folders/0ALYn5YGLWqpOUk9PVA) – originály videí z akcí
+ * [Spolkový Discord](https://discord.gg/3HmpyKqcbx)
 
 ## Zápisy ze schůzí
 
