@@ -105,7 +105,6 @@ Samuel Pastva<br/>
 Jakub Peschel<br/>
 Kristýna Pokorná<br/>
 Jana Posltová<br/>
-Jakub Ratajík<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
