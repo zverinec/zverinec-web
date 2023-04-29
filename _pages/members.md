@@ -34,6 +34,7 @@ Vojta Klapetek<br/>
 Dalibor Kramář<br/>
 Honza Macek<br/>
 Tomáš Macháček<br/>
+Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Mário Murín<br/>
@@ -92,7 +93,6 @@ Ron Luc<br/>
 Peťa Macková<br/>
 Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
-Bianka Matisová<br/>
 Jirka Mauritz<br/>
 Štefan Mlynár<br/>
 Jan Mrázek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
