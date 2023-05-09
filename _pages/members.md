@@ -111,6 +111,7 @@ Oleksandr Sanin<br/>
 Vláďa Sedláček<br/>
 Dominik Sedlák<br/>
 Lukáš Semerád<br/>
+Šimon Sládek<br/>
 Ondřej Slámečka<br/>
 Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý přínos a především nadstandardní přispění k soutěži InterLoS 2018" /><br/>
 Petr Sojka<br/>
