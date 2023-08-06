@@ -41,7 +41,6 @@ Mário Murín<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Jarda Rohel<br/>
-Daniel Rozehnal<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
@@ -105,6 +104,7 @@ Samuel Pastva<br/>
 Jakub Peschel<br/>
 Kristýna Pokorná<br/>
 Jana Posltová<br/>
+Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
