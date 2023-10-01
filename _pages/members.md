@@ -17,7 +17,6 @@ Iva Kasprzaková<br/>
 ## Aktivní členové
 
 Hugo Adamove<br/>
-Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
@@ -47,7 +46,6 @@ Ondra Svoboda<br/>
 Monika Šlachtová<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
-Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Yuliia Teslia<br/>
 Matěj Žáček<br/>
 
@@ -57,6 +55,7 @@ Matěj Žáček<br/>
 Přemysl Bednárek<br/>
 Fanda Blahoudek<br/>
 Nikola Blaňárová<br/>
+Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Honza Darwin Böhm<br/>
 Ondřej Buček<br/>
 Martina Cvinčeková<br/>
@@ -118,6 +117,7 @@ Petr Sojka<br/>
 Alexandra Stanová<br/>
 Adéla Stopka<br/>
 Eva Šmijáková<br/>
+Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Timotej Šujan<br/>
 Samuel Šuľan<br/>
 Daniel Timko<br/>
