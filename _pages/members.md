@@ -31,6 +31,8 @@ Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek<br/>
 Dalibor Kramář<br/>
+Filip Krása<br/>
+Jakub Lozyňskyj<br/>
 Honza Macek<br/>
 Tomáš Macháček<br/>
 Bianka Matisová<br/>
@@ -47,6 +49,7 @@ Monika Šlachtová<br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Yuliia Teslia<br/>
+Diana Valková<br/>
 Matěj Žáček<br/>
 
 
