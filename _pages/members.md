@@ -42,6 +42,7 @@ Mário Murín<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Jarda Rohel<br/>
+Kateřina Rohelová<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
