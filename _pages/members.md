@@ -47,7 +47,6 @@ Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
 Monika Šlachtová<br/>
-Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Yuliia Teslia<br/>
 Diana Valková<br/>
@@ -122,6 +121,7 @@ Alexandra Stanová<br/>
 Adéla Stopka<br/>
 Eva Šmijáková<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
+Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Timotej Šujan<br/>
 Samuel Šuľan<br/>
 Daniel Timko<br/>
