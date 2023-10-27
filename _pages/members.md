@@ -50,6 +50,7 @@ Ondra Svoboda<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Yuliia Teslia<br/>
+Pavol Trnavský<br/>
 Diana Valková<br/>
 Matěj Žáček<br/>
 
@@ -66,6 +67,7 @@ Martina Cvinčeková<br/>
 Jarda Čechák<br/>
 Zdenko Čepan<br/>
 Jiří Daněk<br/>
+Adriána Danihelová<br/>
 Lukáš Daubner<br/>
 Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Marie Maru Drábková<br/>
