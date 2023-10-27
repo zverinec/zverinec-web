@@ -52,7 +52,6 @@ Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele seve
 Yuliia Teslia<br/>
 Pavol Trnavský<br/>
 Diana Valková<br/>
-Matěj Žáček<br/>
 
 
 ## Sympatizující členové
@@ -134,3 +133,4 @@ Jozef Vanický<br/>
 Gabika Véghová<br />
 Monika Vlachová<br/>
 Viki Vozárová<br/>
+Matěj Žáček<br/>
