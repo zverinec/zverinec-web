@@ -8,10 +8,10 @@ order: 20
 ## Výbor spolku
 
 Veronika Burgerová (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
-Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 Daniel Padrta<br/>
 Iva Kasprzaková<br/>
+Jindra Halabala<br/>
 
 
 ## Aktivní členové
@@ -24,16 +24,15 @@ David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
 Marek Hába<br/>
-Jindra Halabala<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
-Vojta Klapetek<br/>
+Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
-Honza Macek<br/>
+Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Tomáš Macháček<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
@@ -43,11 +42,12 @@ Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
+Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Michal Spiegel<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
 Ondra Svoboda<br/>
-Monika Šlachtová<br/>
+Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Yuliia Teslia<br/>
 Diana Valková<br/>
