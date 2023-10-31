@@ -49,7 +49,6 @@ Soňa Sviatková<br/>
 Ondra Svoboda<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
-Yuliia Teslia<br/>
 Pavol Trnavský<br/>
 Diana Valková<br/>
 
@@ -126,6 +125,7 @@ Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severs
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
 Timotej Šujan<br/>
 Samuel Šuľan<br/>
+Yuliia Teslia<br/>
 Daniel Timko<br/>
 Matouš Trnka<br/>
 Martin Ukrop <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><img src="img/rad-rad.svg" class="rad" title="Řád vyššího řádu za dlouhodobé vedení spolku správným směrem" /><br/>
