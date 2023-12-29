@@ -42,6 +42,7 @@ Mário Murín<br/>
 Zuzka Palkovičová<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
+Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
