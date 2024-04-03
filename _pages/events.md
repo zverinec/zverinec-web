@@ -109,7 +109,7 @@ na organizované hry i neorganizovanou zábavu. A hlavně na ostatní přátel
 (přátel) severské zvěře, které jsi možná ve školním prostředí neměl tolik
 příležitostí poznat.
 
-<a class="btn btn-large" href="/winterlis23">Více informací</a>
+<a class="btn btn-large" href="/newinterlis24">Více informací</a>
 
 
 ## InterJelen
