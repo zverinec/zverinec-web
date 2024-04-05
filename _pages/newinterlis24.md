@@ -6,7 +6,7 @@ hide: true
 ---
 
 <a href="https://cs.wikipedia.org/wiki/Liška_polární ">
-<img style="width: 60%; margin-left: 20%" src="/img/newinterlis_logo.svg">
+<img style="width: 60%; margin-left: 20%" src="/img/newinterlis-logo.svg">
 </a>
 
 Chceš lépe poznat ostatní členy Spolku v letním prostředí?
