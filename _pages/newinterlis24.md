@@ -64,7 +64,7 @@ Organizátoři akci připravují bez nároku na odměnu.
 
 ## Přihláška
 
-<a class="btn btn-large" href="https://forms.gle/WSGXuhGP8N3AStVL9">Přihlásit se</a>
+<a class="btn btn-large" href="https://forms.gle/17mYCKsnS3Wsd7826">Přihlásit se</a>
 
 Kapacita akce je ~12 účastníků a 3 organizátoři.
 
