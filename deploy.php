@@ -8,6 +8,6 @@ define("LOGFILE", "/dev/null");
 define("GIT", "git");
 define("MAX_EXECUTION_TIME", 180);
 define("BEFORE_PULL", "git reset --hard @{u}");
-define("AFTER_PULL", "jekyll build");
+define("AFTER_PULL", "make build");
 
 require_once("git-deploy/deployer.php");
