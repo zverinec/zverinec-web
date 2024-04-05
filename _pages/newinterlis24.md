@@ -9,15 +9,13 @@ hide: true
 <img style="width: 60%; margin-left: 20%" src="/img/newinterlis-logo.svg">
 </a>
 
-Chceš lépe poznat ostatní členy Spolku v letním prostředí?
-
-Chceš zjistit víc o tom, jaké akce Spolek vlastně pořádá?
-
 Chceš zažít spoustu zábavy a letních radovánek?
 
-Chceš se naučit dovednosti, které se ti budou hodit při organizování aktivit i v životě?
+Chceš lépe poznat ostatní členy Spolku v letním prostředí?
 
-Schází tvému iglú vířivka a chtěl by sis ji vyrobit?
+Nebo si chceš jen užít chatu s kamarády?
+
+Schází tvým slunečním brýlím liška?
 
 ## O co jde?
 
@@ -26,9 +24,6 @@ Improvizované Setkání) je stmelovací akce pro členy Spolku přátel seversk
 zvěře a jejich kamarády. Můžeš se těšit na letní aktivity, vodu, odpočinek a
 na pár organizovaných her. A hlavně na ostatní přátele (přátel) severské zvěře,
 které jsi možná ve školním prostředí neměl tolik příležitostí poznat.
-
-Oproti wInterLISu 2023 chceme nechat více času na sportovní aktivity
-a organizovat méně strukturovaných her.
 
 ## Kdy?
 
@@ -70,8 +65,9 @@ Kapacita akce je ~12 účastníků a 3 organizátoři.
 
 **Na koho se můžete těšit?**
 
-- Organizátoři: Verča Burgerová, Honza Horáček, Zuzka Palkovičová
-- Účastníci: *zatím nikdo*
+- Organizátoři: Verča Burgerová, Zuzka Palkovičová, Honza Horáček. *Nikdo
+  z nás (zatím?) není garant.*
+- Účastníci: *zatím nikdo*.
 
 ### Storno podmínky
 
