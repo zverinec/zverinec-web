@@ -19,7 +19,7 @@ Schází tvým slunečním brýlím liška?
 
 ## O co jde?
 
-neWInter[LIS](https://en.wikipedia.org/wiki/Firefox) (neboli Letní Lehce
+neWInter[LIS](https://en.wikipedia.org/wiki/Firefox) (neboli Nezimní Lehce
 Improvizované Setkání) je stmelovací akce pro členy Spolku přátel severské
 zvěře a jejich kamarády. Můžeš se těšit na letní aktivity, vodu, odpočinek a
 na pár organizovaných her. A hlavně na ostatní přátele (přátel) severské zvěře,
