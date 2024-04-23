@@ -67,7 +67,7 @@ Kapacita akce je ~12 účastníků a 3 organizátoři.
 
 - Organizátoři: Verča Burgerová, Zuzka Palkovičová, Honza Horáček. *Nikdo
   z nás (zatím?) není garant.*
-- Účastníci: Jindra Halabala, Bára Dohnalová, Daliboa Kramář, Kuba Šťastný, Michal Staník.
+- Účastníci: Jindra Halabala, Bára Dohnalová, Daliboa Kramář, Kuba Šťastný, Michal Staník, Béďa Said.
 
 ### Storno podmínky
 
