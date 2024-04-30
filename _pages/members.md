@@ -49,7 +49,6 @@ Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád příte
 Michal Spiegel<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
-Ondra Svoboda<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Pavol Trnavský<br/>
@@ -123,6 +122,7 @@ Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád př
 Petr Sojka<br/>
 Alexandra Stanová<br/>
 Adéla Stopka<br/>
+Ondra Svoboda<br/>
 Eva Šmijáková<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
