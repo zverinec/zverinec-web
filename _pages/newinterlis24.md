@@ -61,14 +61,13 @@ Organizátoři akci připravují bez nároku na odměnu.
 
 <a class="btn btn-large" href="https://forms.gle/17mYCKsnS3Wsd7826">Přihlásit se</a>
 
-Kapacita akce je ~12 účastníků a 3 organizátoři.
+**Kapacita akce je naplněna. Přijímáme náhradníky.**
 
 **Na koho se můžete těšit?**
 
 - Organizátoři: Verča Burgerová, Zuzka Palkovičová, Honza Horáček. *Nikdo
   z nás (zatím?) není garant.*
-- Účastníci: Jindra Halabala, Bára Dohnalová, Daliboa Kramář, Kuba Šťastný, Michal Staník, Béďa Said, Monča Šlachtová.
-- Zbývá: **5** volných míst
+- Účastníci: Jindra Halabala, Bára Dohnalová, Daliboa Kramář, Kuba Šťastný, Michal Staník, Béďa Said, Monča Šlachtová, Bianka Matisová, David Dobrovolný, Ondra Chwiedziuk, Monča Kuncová, Jindra Matuška.
 
 ### Storno podmínky
 
