@@ -52,6 +52,7 @@ Soňa Sviatková<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Pavol Trnavský<br/>
+Peter Vajda<br/>
 Diana Valková<br/>
 
 
