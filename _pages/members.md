@@ -23,6 +23,7 @@ Emanuel Cisár<br/>
 David Dobrovolný<br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
+Martin Doušek<br/>
 Dominik Farhan<br/>
 Marek Hába<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
