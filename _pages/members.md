@@ -28,14 +28,12 @@ Dominik Farhan<br/>
 Marek Hába<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Tomáš Janoušek<br/>
-Ema Jašeková<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
 Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
-Tomáš Macháček<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
@@ -60,6 +58,7 @@ Diana Valková<br/>
 ## Sympatizující členové
 
 Přemysl Bednárek<br/>
+Pallavi Bharati<br/>
 Fanda Blahoudek<br/>
 Nikola Blaňárová<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
@@ -84,6 +83,7 @@ Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
+Ema Jašeková<br/>
 Petr Kadlec<br/>
 Petra Kalábová<br/>
 Martin Klimeš<br/>
@@ -97,6 +97,7 @@ Dominika Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severs
 Henrich Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 Ron Luc<br/>
 Peťa Macková<br/>
+Tomáš Macháček<br/>
 Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Jirka Mauritz<br/>
