@@ -27,7 +27,7 @@ Martin Doušek<br/>
 Dominik Farhan<br/>
 Marek Hába<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
-Tomáš Janoušek<br/>
+Michael Hrubý<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Dalibor Kramář<br/>
@@ -38,9 +38,11 @@ Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Mário Murín<br/>
+Jakub Ohnút<br/>
 Zuzka Palkovičová<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
+Filip Rada<br/>
 Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
@@ -74,6 +76,7 @@ Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské
 Marie Maru Drábková<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
+Ondrej Gvozdják<br/>
 Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
 Pavla Havlíčková<br/>
@@ -83,6 +86,7 @@ Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
+Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
 Petra Kalábová<br/>
