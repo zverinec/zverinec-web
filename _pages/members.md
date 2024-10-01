@@ -47,6 +47,7 @@ Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
+Standa Špaček<br/>
 Michal Spiegel<br/>
 Michal Staník<br/>
 Soňa Sviatková<br/>
