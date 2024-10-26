@@ -28,6 +28,7 @@ Martin Doušek<br/>
 Dominik Farhan<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
+Tomáš Hlaváček<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Michael Hrubý<br/>
 Ľubo Jurčišin<br/>
@@ -50,13 +51,14 @@ Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
+Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
 Michal Staník<br/>
+Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
+Veronika Štefáková<br/>
 Juraj Straka<br/>
 Soňa Sviatková<br/>
-Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
-Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Pavol Trnavský<br/>
 Peter Vajda<br/>
 Diana Valková<br/>
