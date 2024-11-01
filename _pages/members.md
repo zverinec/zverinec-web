@@ -40,7 +40,6 @@ Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
-Mário Murín<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
 Zuzka Palkovičová<br/>
