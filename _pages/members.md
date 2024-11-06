@@ -8,11 +8,10 @@ order: 20
 ## Výbor spolku
 
 Veronika Burgerová (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
-Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
-Daniel Padrta<br/>
 Iva Kasprzaková<br/>
 Jindra Halabala<br/>
-
+Michael Hrubý<br/>
+Filip Rada<br/>
 
 ## Aktivní členové
 
@@ -21,16 +20,16 @@ Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
 Julie Desová<br/>
-David Dobrovolný<br/>
+David Dobrovolný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mnohaletou práci pro spolek a přínos, zejména v podobě množství a nápaditosti úloh a stanovišť při organizaci InterLoSa a InterSoBa" /> <br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
 Martin Doušek<br/>
 Dominik Farhan<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
+Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 Tomáš Hlaváček<br/>
 Jan Horáček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
-Michael Hrubý<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Dalibor Kramář<br/>
@@ -42,10 +41,10 @@ Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
+Daniel Padrta<br/>
 Zuzka Palkovičová<br/>
 Eliška Pirnosová<br/>
 Karel Procházka<br/>
-Filip Rada<br/>
 Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
@@ -53,7 +52,7 @@ Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád příte
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
-Michal Staník<br/>
+Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za odhodlání pomoct s každou akcí a za záplavu zábavných a zajímavých úloh" /> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Veronika Štefáková<br/>
 Juraj Straka<br/>
