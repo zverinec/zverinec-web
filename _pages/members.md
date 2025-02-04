@@ -60,6 +60,7 @@ Soňa Sviatková<br/>
 Pavol Trnavský<br/>
 Peter Vajda<br/>
 Diana Valková<br/>
+Marie Bajgarová<br/>
 
 
 ## Sympatizující členové
