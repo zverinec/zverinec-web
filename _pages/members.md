@@ -61,6 +61,7 @@ Pavol Trnavský<br/>
 Peter Vajda<br/>
 Diana Valková<br/>
 Marie Bajgarová<br/>
+Eliška Malá<br/>
 
 
 ## Sympatizující členové
