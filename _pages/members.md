@@ -62,6 +62,7 @@ Peter Vajda<br/>
 Diana Valková<br/>
 Marie Bajgarová<br/>
 Eliška Malá<br/>
+Marek Vrána<br/>
 
 
 ## Sympatizující členové
