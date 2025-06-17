@@ -80,6 +80,32 @@ ovlivňují jejich pořadí na výsledkové listině.
 <a class="btn btn-large" href="https://interlos.fi.muni.cz">Chci soutěžit</a>
 
 
+## Náboj
+
+Matematický náboj, je mezinárodní soutěž pro středoškoláky
+zaměřená na rozvoj logického a matematického myšlení a
+spolupráci v týmu při řešení netradičních matematických úloh.
+Soutěže se účastní pětičlenné týmy, které se snaží v časovém limitu správně vyřešit co nejvíce úloh. 
+
+<img src="/img/naboj.jpg" alt="Náboj" />
+
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
+<a class="btn btn-large" href="https://math.naboj.org/cz/cs/">Chci soutěžit</a>
+
+
+## Juniorský korespondenční seminář z informatiky
+
+JuKSI, neboli Juniorský Korespondenční Seminář z Informatiky,
+je půlroční soutěž pro žáky ZŠ z České i Slovenské republiky organizovaná studenty
+Fakulty informatiky Masarykovy univerzity. Cílem semináře je seznámit řešitele se
+zajímavými oblastmi informatiky a procvičit programátorské, matematické a logické myšlení.
+
+<img src="/img/juksi.jpg" alt="JuKSI" />
+
+<a class="btn btn-large" href="/event-join">Chci organizovat</a>
+<a class="btn btn-large" href="https://juksi.fi.muni.cz/">Chci soutěžit</a>
+
+
 ## Naskoč na FI
 
 Naskoč na FI je online seminář určený pro studenty nově nastupující
