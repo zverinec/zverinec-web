@@ -16,6 +16,7 @@ Filip Rada<br/>
 ## Aktivní členové
 
 Hugo Adamove<br/>
+Marie Bajgarová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
@@ -36,6 +37,7 @@ Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
 Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
+Eliška Malá<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
@@ -49,6 +51,7 @@ Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
+Zuzana Schulmeisterová<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
@@ -60,12 +63,7 @@ Soňa Sviatková<br/>
 Pavol Trnavský<br/>
 Peter Vajda<br/>
 Diana Valková<br/>
-Marie Bajgarová<br/>
-Eliška Malá<br/>
 Marek Vrána<br/>
-Zuzana Schulmeisterová<br/>
-
-
 
 ## Sympatizující členové
 
@@ -122,6 +120,7 @@ Lukáš Němec<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Radka Ošťádalová<img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za věrnou a důslednou organizaci InterLoSa" /><br/>
 Jiří Papoušek<br/>
+Jiří Pastrňák<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
 Jan Pindur<br/>
