@@ -20,6 +20,7 @@ Marie Bajgarová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Emanuel Cisár<br/>
+Karel Čermák<br/>
 Julie Desová<br/>
 David Dobrovolný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mnohaletou práci pro spolek a přínos, zejména v podobě množství a nápaditosti úloh a stanovišť při organizaci InterLoSa a InterSoBa" /> <br/>
 Bára Dohnalová<br/>
