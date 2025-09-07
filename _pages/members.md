@@ -95,7 +95,6 @@ Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
 Ján Jančár<br/>
 Ondřej Janda<br/>
-Tomáš Janoušek<br/>
 Ema Jašeková<br/>
 Petr Kadlec<br/>
 Petra Kalábová<br/>
