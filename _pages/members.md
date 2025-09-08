@@ -60,6 +60,7 @@ Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severs
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Veronika Štefáková<br/>
 Juraj Straka<br/>
+Daniela Suchánková<br/>
 Soňa Sviatková<br/>
 Pavol Trnavský<br/>
 Peter Vajda<br/>
