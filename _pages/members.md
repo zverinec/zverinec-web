@@ -27,8 +27,10 @@ Bára Dohnalová<br/>
 Majda Dohnalová<br/>
 Martin Doušek<br/>
 Dominik Farhan<br/>
+Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
+Oldřich Halabala<br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 Tomáš Hlaváček<br/>
 Ľubo Jurčišin<br/>
@@ -39,6 +41,7 @@ Jakub Lozyňskyj<br/>
 Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Eliška Malá<br/>
 Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
+Filip Maňas<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
@@ -54,6 +57,7 @@ Kateřina Rohelová<br/>
 Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Zuzana Schulmeisterová<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
+Adam Spaček<br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
 Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za odhodlání pomoct s každou akcí a za záplavu zábavných a zajímavých úloh" /> <br/>
@@ -69,6 +73,8 @@ Marek Vrána<br/>
 
 ## Sympatizující členové
 
+Juraj Balog<br/>
+Pavla Užovka Bártová<br/>
 Přemysl Bednárek<br/>
 Pallavi Bharati<br/>
 Fanda Blahoudek<br/>
@@ -127,11 +133,13 @@ Jakub Peschel<br/>
 Jan Pindur<br/>
 Kristýna Pokorná<br/>
 Jana Posltová<br/>
+Martin Richter<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
 Vláďa Sedláček<br/>
+Radka Sedláčková<br/>
 Dominik Sedlák<br/>
 Lukáš Semerád<br/>
 Šimon Sládek<br/>
