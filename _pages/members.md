@@ -31,7 +31,6 @@ Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
 Oldřich Halabala<br/>
-Anna-Marie Hájková<br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 Tomáš Hlaváček<br/>
 Ľubo Jurčišin<br/>
@@ -96,6 +95,7 @@ Marie Maru Drábková<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
 Dominik Gmiterko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nejlepší univerzální výpomoc 2015/2016" /><br/>
 Ondrej Gvozdják<br/>
+Anna-Marie Hájková<br/>
 Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
 Pavla Havlíčková<br/>
