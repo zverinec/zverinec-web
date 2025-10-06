@@ -31,6 +31,7 @@ Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
 Oldřich Halabala<br/>
+Anna-Marie Hájková<br/>
 Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
 Tomáš Hlaváček<br/>
 Ľubo Jurčišin<br/>
@@ -38,6 +39,7 @@ Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severs
 Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
+Ivan Lacko<br/>
 Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Eliška Malá<br/>
 Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
@@ -68,6 +70,7 @@ Daniela Suchánková<br/>
 Soňa Sviatková<br/>
 Pavol Trnavský<br/>
 Peter Vajda<br/>
+Martin Valent<br/>
 Diana Valková<br/>
 Marek Vrána<br/>
 
