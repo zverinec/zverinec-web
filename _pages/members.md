@@ -142,6 +142,7 @@ Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
+Sofie Schenková<br/>
 Vláďa Sedláček<br/>
 Radka Sedláčková<br/>
 Dominik Sedlák<br/>
