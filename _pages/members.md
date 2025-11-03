@@ -31,8 +31,6 @@ Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
 Oldřich Halabala<br/>
-Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
-Tomáš Hlaváček<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Bonifác Kozub<br/>
@@ -101,6 +99,8 @@ Martin Timan Hanžl<br/>
 Martina Tinka Hanžlová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci K-SCUKu 2016" /><br/>
 Pavla Havlíčková<br/>
 Martin Hesko<br/>
+Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za rozpletení gordického uzlu financování KSI a K-SCUKu z grantu MŠMT" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za zrození Naskoč na FI a implementaci front-endu nového webu KSI" /><br/>
+Tomáš Hlaváček<br/>
 Anna Hradecká<br/>
 Ondra Hrdlička<br/>
 Tomáš Jadrný<br/>
