@@ -35,6 +35,7 @@ Adam Hlaváček <img src="img/rad.svg" class="rad" title="Řád přítele sever
 Tomáš Hlaváček<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
+Bonifác Kozub<br/>
 Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
