@@ -29,6 +29,7 @@ schůzky, přijdťe, pokud se chcete přidat do organizování.
 
 ## Zápisy ze schůzí
 
+ * <a href="https://docs.google.com/document/d/16CAPm3zx_hFG7yDgY9N24fBpbvk1pJlFJe8GUdvtBss/edit" target="_blank">5. 11. 2024</a>
  * <a href="https://docs.google.com/document/d/1WOluHaH6gcbXYj4bGSEHiJ6AZZP6EzsNIOLGOURV31s/edit" target="_blank">26. 10. 2023</a>
  * <a href="https://docs.google.com/document/d/14w7kv_DQa8fTxB1OJSJQzv6rjynUVwfqxgazJ2GfELM/edit" target="_blank">20. 10. 2022</a>
  * <a href="https://docs.google.com/document/d/1xOkTdIfogZiDRkqHWBQZZz4uhEm0KTGpXTyR5dlMRKY/edit" target="_blank">3. 11. 2021</a>
