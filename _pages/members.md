@@ -19,9 +19,7 @@ Hugo Adamove<br/>
 Marie Bajgarová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
-Emanuel Cisár<br/>
 Karel Čermák<br/>
-Julie Desová<br/>
 David Dobrovolný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mnohaletou práci pro spolek a přínos, zejména v podobě množství a nápaditosti úloh a stanovišť při organizaci InterLoSa a InterSoBa" /> <br/>
 Bára Dohnalová<br/>
 Majda Dohnalová<br/>
@@ -62,7 +60,6 @@ Michal Spiegel<br/>
 Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za odhodlání pomoct s každou akcí a za záplavu zábavných a zajímavých úloh" /> <br/>
 Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
 Veronika Štefáková<br/>
-Juraj Straka<br/>
 Daniela Suchánková<br/>
 Soňa Sviatková<br/>
 Pavol Trnavský<br/>
@@ -82,12 +79,14 @@ Nikola Blaňárová<br/>
 Ondra Borýsek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vzornou garanci KSI, dlouholetou archeologicko-inovativní práci na webu KSI, extrémní nasazení v každé příležitosti a realizaci dlouho zvažované síťové vlny" /><br/>
 Honza Darwin Böhm<br/>
 Ondřej Buček<br/>
+Emanuel Cisár<br/>
 Martina Cvinčeková<br/>
 Jarda Čechák<br/>
 Zdenko Čepan<br/>
 Jiří Daněk<br/>
 Adriána Danihelová<br/>
 Lukáš Daubner<br/>
+Julie Desová<br/>
 Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Marie Maru Drábková<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
@@ -154,6 +153,7 @@ Kateřina Drobek Sloupová <img src="img/rad.svg" class="rad" title="Řád př
 Petr Sojka<br/>
 Alexandra Stanová<br/>
 Adéla Stopka<br/>
+Juraj Straka<br/>
 Ondra Svoboda<br/>
 Eva Šmijáková<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
