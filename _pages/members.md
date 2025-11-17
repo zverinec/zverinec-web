@@ -7,9 +7,9 @@ order: 20
 
 ## Výbor spolku
 
-Veronika Malina (předsedkyně) <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
+Jindřich Halabala (předseda)<br/>
 Iva Kasprzaková<br/>
-Jindra Halabala<br/>
+Oldřich Halabala<br/>
 Michael Hrubý<br/>
 Filip Rada<br/>
 
@@ -28,7 +28,6 @@ Dominik Farhan<br/>
 Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
-Oldřich Halabala<br/>
 Ľubo Jurčišin<br/>
 Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nadlidskou schopnost navigovat se světem grantů s lidskou tváří a absolutním odhodláním vykonat svůj úkol bez nejmenší poskvrny" /><br/>
 Bonifác Kozub<br/>
@@ -39,6 +38,7 @@ Ivan Lacko<br/>
 Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Eliška Malá<br/>
 Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
+Veronika Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
 Filip Maňas<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
