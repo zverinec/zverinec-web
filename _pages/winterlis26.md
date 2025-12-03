@@ -24,7 +24,7 @@ zábavu. A hlavně na ostatní přátele (přátel) severské zvěře, které js
 prostředí neměl tolik příležitostí poznat. 
 
 ## Kdy a kde to bude?
-Akce proběhne **od 11. do 15. února 2025** (středa až neděle) v **Jeseníkách**.
+Akce proběhne **od 11. do 15. února 2025** (středa až neděle) v **Bělé pod Pradědem v Jeseníkách**.
 
 ## Za kolik?
 **2222–3333 Kč**
@@ -47,7 +47,7 @@ Organizátoři akci připravují bez nároku na odměnu.
 
 ## Přihláška
 <a class="btn btn-large" href="#todo">Přihlásit se</a>
-Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlásit se je možné do **25. 12.**.
+Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlásit se je možné do **19. 12.**
 
 **Na koho se můžete těšit?**
 
