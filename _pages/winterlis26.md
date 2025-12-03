@@ -9,7 +9,7 @@ hide: true
 <img style="width: 60%; margin-left: 20%" src="/img/winterlis_logo_curves.svg">
 </a>
 
-Chceš lépe poznat ostatní členy Spolku v netradičním prostředí?
+Chceš lépe poznat ostatní členy Spolku v netradičním prostředí?
 
 Chceš zažít spoustu zábavy a zimních radovánek?
 
@@ -19,20 +19,21 @@ Schází tvému iglú vířivka a chtěl by sis ji vyrobit?
 WInter[LIS](https://cs.wikipedia.org/wiki/Liška_polární)
 (neboli Zimní Lehce Improvizované Setkání) je stmelovací akce pro
 Spolek přátel severské zvěře a přátele Spolku přátel severské zvěře. Můžeš se těšit
-na spoustu tradičních i netradičních zimních aktivit, na organizované hry i neorganizovanou
+na spoustu tradičních i netradičních zimních aktivit, na organizované hry i neorganizovanou
 zábavu. A hlavně na ostatní přátele (přátel) severské zvěře, které jsi možná ve školním
-prostředí neměl tolik příležitostí poznat. 
+prostředí neměl tolik příležitostí poznat.
 
 ## Kdy a kde to bude?
-Akce proběhne **od 11. do 15. února 2025** (středa až neděle) v **Bělé pod Pradědem v Jeseníkách**.
+Akce proběhne **od 11. do 15. února 2025** (středa až neděle) na
+[**chatě v Horním Domašově v Jeseníkách**](https://mapy.com/s/punolopotu).
 
 ## Za kolik?
 **2222–3333 Kč**
 
-Rádi bychom, aby akce byla cenově dostupná pro každého, kdo má o účast na
+Rádi bychom, aby akce byla cenově dostupná pro každého, kdo má o účast na
 víkendovce zájem. Ceny všeho jsou ale vysoké, proto se účastnickým poplatkům
 nevyhneme. Podle svých finančních možností od tebe tedy pro účast budeme
-potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. Z více peněz si
+potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. Z více peněz si
 budeme moct dovolit zajistit zajímavější program, více mňamy jídlo a další
 vylepšení akce, abychom vám mohli nabídnout ještě víc cool zážitky.
 (Vše se ale rozdělí rovnoměrně, neznamená to, že když zaplatíš víc, budeš
@@ -47,7 +48,8 @@ Organizátoři akci připravují bez nároku na odměnu.
 
 ## Přihláška
 <a class="btn btn-large" href="#todo">Přihlásit se</a>
-Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlásit se je možné do **19. 12.**
+Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlašování je otevřené do
+**19. prosince 2025**.
 
 **Na koho se můžete těšit?**
 
