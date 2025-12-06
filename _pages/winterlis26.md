@@ -33,11 +33,11 @@ Akce proběhne **od 11. do 15. února 2025** (středa až neděle) na
 Rádi bychom, aby akce byla cenově dostupná pro každého, kdo má o účast na
 víkendovce zájem. Ceny všeho jsou ale vysoké, proto se účastnickým poplatkům
 nevyhneme. Podle svých finančních možností od tebe tedy pro účast budeme
-potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. Z více peněz si
-budeme moct dovolit zajistit zajímavější program, více mňamy jídlo a další
-vylepšení akce, abychom vám mohli nabídnout ještě víc cool zážitky.
-(Vše se ale rozdělí rovnoměrně, neznamená to, že když zaplatíš víc, budeš
-mít lepší jídlo jen ty.)
+potřebovat uhrazení účastnického poplatku v uvedeném rozsahu. Abychom zvládli
+náklady bez větších potíží pokrýt, rádi bychom se dostali na průměrnou hodnotu
+2800 Kč. Pokud jsi tedy v dobré finanční situaci, bude šlechetné, pokud se
+přikloníš k vyšší částce. Naopak pokud jsi na tom hůř, můžeš se přiklonit
+k té nížší hranici.
 
 Organizátoři akci připravují bez nároku na odměnu.
 
