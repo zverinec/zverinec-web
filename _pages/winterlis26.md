@@ -47,7 +47,7 @@ Organizátoři akci připravují bez nároku na odměnu.
 - Zajištění materiálu na program, jeho dovoz a další nezbytné výdaje.
 
 ## Přihláška
-<a class="btn btn-large" href="#todo">Přihlásit se</a>
+<a class="btn btn-large" href="https://forms.gle/hvm6tK2vzjLztGrh9">Přihlásit se</a>
 Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlašování je otevřené do
 **19. prosince 2025**.
 
