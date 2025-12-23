@@ -54,7 +54,8 @@ Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlašování je ote
 **Na koho se můžete těšit?**
 
 - Organizátoři: Honza Malina, Verča Malina, Standa Špaček, Michael Hrubý
-- Účastníci: Linda Ráheľová, Jakub Šťastný, Michal Staník, Eliška Pirnosová.
+- Účastníci: Linda Ráheľová, Jakub Šťastný, Michal Staník, Eliška Pirnosová,
+  Martin Doušek, David Dobrovolný.
 
 ### Storno podmínky
 
