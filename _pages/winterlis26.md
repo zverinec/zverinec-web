@@ -62,12 +62,12 @@ Kapacita akce je ~11 účastníků a 4 organizátoři. Přihlašování je ote
 
 Při odhlášení
 
-- do 11. 1. včetně vrátíme 50 % účastnického poplatku,
-- do 31. 1. včetně vrátíme 20 % účastnického poplatku,
-- do úterý 10. 2. (den před akcí) včetně vrátíme 10 % účastnického poplatku,
+- do 11. 1. včetně vrátíme 50 % účastnického poplatku,
+- do 31. 1. včetně vrátíme 20 % účastnického poplatku,
+- do úterý 10. 2. (den před akcí) včetně vrátíme 10 % účastnického poplatku,
 - v den započetí akce či později bohužel již nevracíme.
 
-Pokud by bychom akci zrušili my, vrátíme vám celou uhrazenou částku.
+Pokud bychom akci zrušili my, vrátíme vám celou uhrazenou částku.
 
 ## Jak nás kontaktovat?
 
