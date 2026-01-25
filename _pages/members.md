@@ -46,7 +46,6 @@ Jindřich Matuška<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
 Daniel Padrta<br/>
-Eliška Pirnosová<br/>
 Karel Procházka<br/>
 Linda Ráheľová<br/>
 Jarda Rohel<br/>
@@ -134,6 +133,7 @@ Jiří Pastrňák<br/>
 Samuel Pastva<br/>
 Jakub Peschel<br/>
 Jan Pindur<br/>
+Eliška Pirnosová<br/>
 Kristýna Pokorná<br/>
 Natália Poliačiková<br/>
 Jana Posltová<br/>
