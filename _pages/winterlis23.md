@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Winterlis 2023
+title: WInterLIS 2023
 permalink: /winterlis23
 hide: true
 ---
