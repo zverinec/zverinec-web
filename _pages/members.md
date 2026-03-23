@@ -85,7 +85,6 @@ Zdenko Čepan<br/>
 Jiří Daněk<br/>
 Adriána Danihelová<br/>
 Lukáš Daubner<br/>
-Julie Desová<br/>
 Jan Drábek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Marie Maru Drábková<br/>
 Tom Effenberger <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinský přínos KSI a stvoření NP hry" /><br/>
