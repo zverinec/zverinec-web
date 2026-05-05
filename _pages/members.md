@@ -35,7 +35,6 @@ Dalibor Kramář<br/>
 Filip Krása<br/>
 Jakub Lozyňskyj<br/>
 Ivan Lacko<br/>
-Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Eliška Malá<br/>
 Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Veronika Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
@@ -115,8 +114,9 @@ František Lachman<br/>
 Dominika Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za vynikající prvoorganizace velké akce (InterSoB)" /><br/>
 Henrich Lauko <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za hrdinnou službu KSI" /><br/>
 Ron Luc<br/>
-Peťa Macková<br/>
+Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za letité bezkonkurenční kuchařské a zdravotnické služby a organizaci Schrödingerova grilu" /><br/>
 Tomáš Macháček<br/>
+Peťa Macková<br/>
 Dan Makalouš<br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Jirka Mauritz<br/>
