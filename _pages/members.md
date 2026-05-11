@@ -154,6 +154,7 @@ Alexandra Stanová<br/>
 Adéla Stopka<br/>
 Juraj Straka<br/>
 Ondra Svoboda<br/>
+Filip Škultéty<br/>
 Eva Šmijáková<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
 Jan Štouri Štourač <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na back-endu KSI webu" /><br/>
