@@ -162,7 +162,6 @@ Timotej Šujan<br/>
 Samuel Šuľan<br/>
 Yuliia Teslia<br/>
 Daniel Timko<br/>
-Martin Ukrop <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><img src="img/rad-rad.svg" class="rad" title="Řád vyššího řádu za dlouhodobé vedení spolku správným směrem" /><br/>
 Jozef Vanický<br/>
 Gabika Véghová<br />
 Monika Vlachová<br/>
