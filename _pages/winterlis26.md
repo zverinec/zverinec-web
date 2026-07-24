@@ -24,7 +24,7 @@ zábavu. A hlavně na ostatní přátele (přátel) severské zvěře, které js
 prostředí neměl tolik příležitostí poznat.
 
 ## Kdy a kde to bude?
-Akce proběhne **od 11. do 15. února 2025** (středa až neděle) na
+Akce proběhne **od 11. do 15. února 2026** (středa až neděle) na
 [**chatě v Horním Domašově v Jeseníkách**](https://mapy.com/s/punolopotu).
 
 ## Za kolik?
