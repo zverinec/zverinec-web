@@ -44,7 +44,6 @@ Kateřina Matulová<br/>
 Jindřich Matuška<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
-Daniel Padrta<br/>
 Karel Procházka<br/>
 Linda Ráheľová<br/>
 Jarda Rohel<br/>
@@ -126,6 +125,7 @@ František Nečas<br/>
 Lukáš Němec<br/>
 Jirka Novotný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Radka Ošťádalová<img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za věrnou a důslednou organizaci InterLoSa" /><br/>
+Daniel Padrta<br/>
 Zuzka Palkovičová<br/>
 Jiří Papoušek<br/>
 Jiří Pastrňák<br/>
