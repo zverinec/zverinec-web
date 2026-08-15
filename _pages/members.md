@@ -33,6 +33,7 @@ Vojta Klapetek <img src="img/rad.svg" class="rad" title="Řád přítele severs
 Bonifác Kozub<br/>
 Dalibor Kramář<br/>
 Filip Krása<br/>
+Vojtěch Křižan<br/>
 Jakub Lozyňskyj<br/>
 Ivan Lacko<br/>
 Eliška Malá<br/>
