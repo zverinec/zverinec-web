@@ -17,6 +17,7 @@ Filip Rada<br/>
 
 Hugo Adamove<br/>
 Marie Bajgarová<br/>
+Pavla Užovka Bártová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
 Karel Čermák<br/>
@@ -69,7 +70,6 @@ Marek Vrána<br/>
 ## Sympatizující členové
 
 Juraj Balog<br/>
-Pavla Užovka Bártová<br/>
 Přemysl Bednárek<br/>
 Pallavi Bharati<br/>
 Fanda Blahoudek<br/>
