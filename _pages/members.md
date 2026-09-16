@@ -70,6 +70,7 @@ Marek Vrána<br/>
 ## Sympatizující členové
 
 Juraj Balog<br/>
+Jiří Barnat<br/>
 Přemysl Bednárek<br/>
 Pallavi Bharati<br/>
 Fanda Blahoudek<br/>
