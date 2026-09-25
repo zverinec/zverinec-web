@@ -43,6 +43,7 @@ Filip Maňas<br/>
 Bianka Matisová<br/>
 Kateřina Matulová<br/>
 Jindřich Matuška<br/>
+Erik Mášik<br/>
 Ondřej Nečas<br/>
 Jakub Ohnút<br/>
 Karel Procházka<br/>
@@ -53,6 +54,7 @@ Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád příte
 Zuzana Schulmeisterová<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Adam Spaček<br/>
+Adam Svoboda<br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
 Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za odhodlání pomoct s každou akcí a za záplavu zábavných a zajímavých úloh" /> <br/>
@@ -155,6 +157,7 @@ Alexandra Stanová<br/>
 Adéla Stopka<br/>
 Juraj Straka<br/>
 Ondra Svoboda<br/>
+Svatava Šimečková<br/>
 Filip Škultéty<br/>
 Eva Šmijáková<br/>
 Vláďa Štill <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádný nekromantický počin oživení InterLoSa" /><br/>
