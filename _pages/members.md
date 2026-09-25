@@ -16,7 +16,6 @@ Filip Rada<br/>
 ## Aktivní členové
 
 Hugo Adamove<br/>
-Marie Bajgarová<br/>
 Pavla Užovka Bártová<br/>
 Vojta Brdečko<br/>
 Oliver Bukor<br/>
