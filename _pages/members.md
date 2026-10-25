@@ -37,7 +37,6 @@ Vojtěch Křižan<br/>
 Jakub Lozyňskyj<br/>
 Ivan Lacko<br/>
 Eliška Malá<br/>
-Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Veronika Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
 Filip Maňas<br/>
 Bianka Matisová<br/>
@@ -120,6 +119,7 @@ Honza Macek <img src="img/rad.svg" class="rad" title="Řád přítele severské
 Tomáš Macháček<br/>
 Peťa Macková<br/>
 Dan Makalouš<br/>
+Jan Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za práci na front-endu KSI webu" /> <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Jiří Maara Marek <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za organizaci FIORDu a InterSoBa" /><br/>
 Jirka Mauritz<br/>
 Štefan Mlynár<br/>
