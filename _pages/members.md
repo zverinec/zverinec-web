@@ -34,7 +34,6 @@ Bonifác Kozub<br/>
 Dalibor Kramář<br/>
 Filip Krása<br/>
 Vojtěch Křižan<br/>
-Jakub Lozyňskyj<br/>
 Ivan Lacko<br/>
 Eliška Malá<br/>
 Veronika Malina <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za nekonečné propagační zapálení a zapojení do všech Spolkových akcí" /> <br/>
