@@ -48,7 +48,6 @@ Karel Procházka<br/>
 Linda Ráheľová<br/>
 Jarda Rohel<br/>
 Kateřina Rohelová<br/>
-Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Zuzana Schulmeisterová<br/>
 Monika Šlachtová <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci InterLoSa"/> <br/>
 Adam Spaček<br/>
@@ -141,6 +140,7 @@ Jana Posltová<br/>
 Martin Richter<br/>
 Daniel Rozehnal<br/>
 Eduard Ruisl<br/>
+Anička Řechtáčková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za perfektně zvládnutou garanci K-SCUKu" /><br/>
 Bedřich Béďa Said<br/>
 Oleksandr Sanin<br/>
 Sofie Schenková<br/>
