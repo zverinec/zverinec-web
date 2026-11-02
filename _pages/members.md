@@ -64,6 +64,7 @@ Peter Vajda<br/>
 Martin Valent<br/>
 Diana Valková<br/>
 Marek Vrána<br/>
+Adam Žalud<br/>
 
 ## Sympatizující členové
 
@@ -170,4 +171,3 @@ Gabika Véghová<br />
 Monika Vlachová<br/>
 Viki Vozárová<br/>
 Matěj Žáček<br/>
-Adam Žalud<br/>
