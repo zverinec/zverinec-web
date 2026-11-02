@@ -106,7 +106,6 @@ Petr Kadlec<br/>
 Petra Kalábová<br/>
 Martin Klimeš<br/>
 Jan Veveřák Koniarik<br/>
-Jan Konstant<br/>
 Kristýna Kroupová<br />
 Karel Kubíček <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/>
 Martin Kurečka<br/>
