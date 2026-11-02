@@ -8,9 +8,9 @@ order: 20
 ## Výbor spolku
 
 Jindřich Halabala (předseda)<br/>
-Iva Kasprzaková<br/>
+Iva Kasprzaková <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za dlouhodobý provoz spolkového skladu i ve velmi nepříznivé situaci"/><br/>
 Oldřich Halabala<br/>
-Michael Hrubý<br/>
+Michael Hrubý <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za ochotu hasit skladnické i spolkové problémy nekončící záplavou e-mailů"/><br/>
 Filip Rada<br/>
 
 ## Aktivní členové
@@ -56,7 +56,7 @@ Adam Svoboda<br/>
 Standa Špaček<br/>
 Michal Spiegel<br/>
 Michal Staník <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za odhodlání pomoct s každou akcí a za záplavu zábavných a zajímavých úloh" /> <br/>
-Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><br/> 
+Jakub Šťastný <img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za mimořádné nasazení přesahující hranice státu i spánkového režimu" /><img src="img/rad.svg" class="rad" title="Řád přítele severské zvěře za celoživotní přínos" /><br/> 
 Veronika Štefáková<br/>
 Daniela Suchánková<br/>
 Soňa Sviatková<br/>
