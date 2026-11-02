@@ -25,6 +25,7 @@ Bára Dohnalová<br/>
 Majda Dohnalová<br/>
 Martin Doušek<br/>
 Dominik Farhan<br/>
+Jakub Fiala<br/>
 Vojtěch Fošnár<br/>
 Stanislav Guzej<br/>
 Marek Hába<br/>
